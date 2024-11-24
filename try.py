@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from transformers import BartForConditionalGeneration, BartTokenizer
 
 tokenizer = BartTokenizer.from_pretrained("facebook/bart-large-cnn")
