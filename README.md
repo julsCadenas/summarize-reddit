@@ -2,6 +2,10 @@
 
 This project is a Python script that fetches a Reddit post and its comments, processes them using the Reddit API, and generates a summary using the BART transformer model.
 
+## Status: 🚧 Under Development
+
+This project is currently a work in progress. While the core functionality is operational, additional features, improvements, and bug fixes are actively being worked on. Feedback and contributions are welcome!
+
 ## Features
 - Fetches Reddit posts and comments using the Reddit API.
 - Summarizes large text content using the `facebook/bart-large-cnn` model from Hugging Face.
