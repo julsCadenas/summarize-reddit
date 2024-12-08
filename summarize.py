@@ -76,6 +76,7 @@ comment_summary = tokenizer.decode(
     comment_summary_ids[0], 
     skip_special_tokens=True
     )
+
 final_summary = f"Post Summary:\n{post_summary}\nComments Summary:\n{comment_summary}"
 
 print("Summary:", final_summary)
