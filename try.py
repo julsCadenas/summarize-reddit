@@ -12,7 +12,7 @@ depends on your budget and preferences for size and typing feel.
 """
 
 inputs = tokenizer.encode(
-    "summarize: " + text, 
+    "List and summarize the brands and their features: " + text, 
     return_tensors="pt", 
     max_length=1024, 
     truncation=True
