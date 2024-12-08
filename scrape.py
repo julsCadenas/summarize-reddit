@@ -32,7 +32,7 @@ TOKEN = res.json()['access_token']
 headers['Authorization'] = f'bearer {TOKEN}'
 
 # reddit post link
-post_link = 'https://www.reddit.com/r/PHbuildapc/comments/1dwf2tr/mechanical_keyboard_recommendations_for_2k_php/'
+post_link = 'https://www.reddit.com/r/PHbuildapc/comments/18j55t3/recommendations_for_a_keyboard/'
 post_link_split = post_link.split('/') # split the text between / 
 subreddit = post_link_split[4] 
 post_id = post_link_split[6]
