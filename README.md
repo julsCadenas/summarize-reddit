@@ -22,4 +22,4 @@ This project is a Python script that fetches a Reddit post and its comments, pro
    ```
 2. Set up your environmental variables
 3. Run scrape.py
-4. Run try.py
+4. Run summarize.py
