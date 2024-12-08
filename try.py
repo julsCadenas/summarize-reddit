@@ -11,7 +11,25 @@ high-end enthusiasts go for GMK keycaps and switches like Cherry MX or Gateron. 
 depends on your budget and preferences for size and typing feel.
 """
 
-inputs = tokenizer.encode("summarize: " + text, return_tensors="pt", max_length=1024, truncation=True)
-summary_ids = model.generate(inputs, max_length=130, min_length=30, length_penalty=2.0, num_beams=4, early_stopping=True)
-summary = tokenizer.decode(summary_ids[0], skip_special_tokens=True)
+inputs = tokenizer.encode(
+    "summarize: " + text, 
+    return_tensors="pt", 
+    max_length=1024, 
+    truncation=True
+    )
+
+summary_ids = model.generate(
+    inputs, max_length=130, 
+    min_length=30, 
+    length_penalty=2.0, 
+    num_beams=4, 
+    no_repeat_ngram_size=3,
+    early_stopping=True
+    )
+
+summary = tokenizer.decode(
+    summary_ids[0], 
+    skip_special_tokens=True
+    )
+
 print("Summary:", summary)
