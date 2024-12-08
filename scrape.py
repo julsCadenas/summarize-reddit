@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import requests
+import json
 import os
 from dotenv import load_dotenv
 
@@ -27,9 +28,11 @@ TOKEN = res.json()['access_token']
 
 headers['Authorization'] = f'bearer {TOKEN}'
 
-subreddit = "PHBuildapc"
-post_id = "16u7dg8"
+post_link = 'https://www.reddit.com/r/PHbuildapc/comments/16u7dg8/mechanical_keyboard_recommendation/'
+post_link_split = post_link.split('/')
+subreddit = post_link_split[4]
+post_id = post_link_split[6]
 url = f"https://oauth.reddit.com/r/{subreddit}/comments/{post_id}"
 response = requests.get(url, headers=headers)
-
-print(response.json())
+formatted_response = json.dumps(response.json(), indent=4)
+print(formatted_response)
