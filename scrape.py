@@ -4,6 +4,7 @@ import json
 import os
 from dotenv import load_dotenv
 
+# load sensitive info from .env
 load_dotenv()
 
 CLIENT_ID = os.getenv('CLIENT_ID')
@@ -12,6 +13,7 @@ USERNAME = os.getenv('USERNAME')
 PASSWORD = os.getenv('PASSWORD')
 USER_AGENT = os.getenv('USER_AGENT')
 
+# initialize authentication with reddit api
 auth = requests.auth.HTTPBasicAuth(CLIENT_ID, CLIENT_SECRET)
 data = {
     'grant_type': 'password',
@@ -20,6 +22,7 @@ data = {
 }
 headers = {'User-Agent': USER_AGENT}
 
+# fetch the access token
 res = requests.post(
     'https://www.reddit.com/api/v1/access_token',
     auth=auth, data=data, headers=headers
@@ -28,11 +31,17 @@ TOKEN = res.json()['access_token']
 
 headers['Authorization'] = f'bearer {TOKEN}'
 
-post_link = 'https://www.reddit.com/r/PHbuildapc/comments/16u7dg8/mechanical_keyboard_recommendation/'
-post_link_split = post_link.split('/')
-subreddit = post_link_split[4]
+# reddit post link
+post_link = 'https://www.reddit.com/r/PHbuildapc/comments/1dwf2tr/mechanical_keyboard_recommendations_for_2k_php/'
+post_link_split = post_link.split('/') # split the text between / 
+subreddit = post_link_split[4] 
 post_id = post_link_split[6]
-url = f"https://oauth.reddit.com/r/{subreddit}/comments/{post_id}"
+url = f"https://oauth.reddit.com/r/{subreddit}/comments/{post_id}" # fetch
 response = requests.get(url, headers=headers)
-formatted_response = json.dumps(response.json(), indent=4)
+formatted_response = json.dumps(response.json(), indent=4) # format the json file before printing in terminal
 print(formatted_response)
+
+# save in response.json file
+with open('response.json', 'w') as json_file:
+    json.dump(response.json(), json_file, indent=4)
+print('\nsaved in response.json')
