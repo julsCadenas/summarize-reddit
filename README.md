@@ -25,5 +25,4 @@ This project is currently a work in progress. While the core functionality is op
    cd reddit-post-summarizer
    ```
 2. Set up your environmental variables
-3. Run scrape.py
-4. Run summarize.py
+3. Run main.py
