@@ -13,7 +13,7 @@ class Scrape:
         self.USER_AGENT = os.getenv('USER_AGENT')
         self.TOKEN = None
         self.headers = {'User-Agent': self.USER_AGENT}
-    
+
     def authenticate(self):
         auth = requests.auth.HTTPBasicAuth(self.CLIENT_ID, self.CLIENT_SECRET)
         data = {
@@ -27,20 +27,17 @@ class Scrape:
         )
         self.TOKEN = res.json()['access_token']
         self.headers['Authorization'] = f'bearer {self.TOKEN}'
-    
+
     def save_into_json(self, response, filename):
         with open(filename, 'w') as json_file:
             json.dump(response.json(), json_file, indent=4)
         print('saved in response.json')
- 
+
     def fetch_post(self, post_link):
         post_link_split = post_link.split('/')
         subreddit = post_link_split[4]
         post_id = post_link_split[6]
-        url = f"https://oauth.reddit.com/r/{subreddit}/comments/{post_id}" 
+        url = f"https://oauth.reddit.com/r/{subreddit}/comments/{post_id}"
         response = requests.get(url, headers=self.headers)
         self.save_into_json(response, "response.json")
         return response.json()
-
-        
-        

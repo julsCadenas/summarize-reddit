@@ -4,7 +4,7 @@ class Summarize:
     def __init__(self):
         self.tokenizer = BartTokenizer.from_pretrained("facebook/bart-large-cnn")
         self.model = BartForConditionalGeneration.from_pretrained("facebook/bart-large-cnn")
-    
+
     def summarize(self, text, prompt):
         inputs = self.tokenizer.encode(
             f"{prompt}: {text}", 
@@ -37,10 +37,8 @@ class Summarize:
 
         post_summary = self.summarize(post_content, prompt)
         comments_summary = self.summarize(comments_all, prompt)
-        
+
         return {
             "post_summary": post_summary,
             "comments_summary": comments_summary
         }
-        
-# added for test push
