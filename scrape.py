@@ -25,6 +25,7 @@ class Scrape:
             'https://www.reddit.com/api/v1/access_token',
             auth=auth, data=data, headers=self.headers
         )
+        res.raise_for_status()
         self.TOKEN = res.json()['access_token']
         self.headers['Authorization'] = f'bearer {self.TOKEN}'
 
@@ -39,5 +40,6 @@ class Scrape:
         post_id = post_link_split[6]
         url = f"https://oauth.reddit.com/r/{subreddit}/comments/{post_id}"
         response = requests.get(url, headers=self.headers)
+        response.raise_for_status()
         self.save_into_json(response, "response.json")
         return response.json()
