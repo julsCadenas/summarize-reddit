@@ -42,8 +42,56 @@
             "Asking lng po, where did you buy the parts po?",
             "Jam jam haren kebab how grop cheeseburger hep hep kolma jop"
         ],
-        "summary": "In this heartfelt Reddit post, a 24-year-old shares his triumphant journey of overcoming personal challenges to finally purchase his dream gaming PC, featuring a Ryzen 5 5600 processor and Sapphire RX6600 GPU. After struggling with unemployment and lacking confidence, he managed to secure a job and save enough money to build his first gaming computer, a milestone that resonated deeply with the online community. The comments section erupted with support, with fellow tech enthusiasts sharing their own stories of first PC builds, offering congratulations, and celebrating the poster's personal achievement. More than just a technical discussion, the thread became a powerful narrative of perseverance, self-improvement, and the emotional significance of turning a long-held dream into reality through hard work and determination.",
-        "index": 0
+        "index": 0,
+        "summary": {
+            "summary": {
+                "title": "Finally Bought My Dream Gaming PC",
+                "sections": [
+                    {
+                        "heading": "Personal Achievement",
+                        "details": [
+                            "24-year-old OP shares joy in buying a dream gaming PC after years of being jobless and lacking confidence.",
+                            "This marks OP's first major accomplishment since starting work."
+                        ]
+                    },
+                    {
+                        "heading": "PC Build Details",
+                        "specs": [
+                            "Ryzen 5 5600",
+                            "Sapphire RX6600 8GB",
+                            "Gigabyte B550m DS3H",
+                            "16GB HyperX Fury RAM (3200MHz)",
+                            "1TB NVME M.2 SSD",
+                            "Corsair CX 650W PSU",
+                            "Tecware Flatline mATX Case",
+                            "6x 120mm aRGB Fans"
+                        ]
+                    },
+                    {
+                        "heading": "Community Responses",
+                        "highlights": [
+                            "Encouragement and congratulations for OP's milestone.",
+                            "Many shared their own PC-building experiences, expressing nostalgia and pride.",
+                            "Advice on budget management, game suggestions, and hardware upgrades."
+                        ]
+                    },
+                    {
+                        "heading": "Discussion on Costs and Sources",
+                        "key_points": [
+                            "Inquiries about the total cost and where parts were bought.",
+                            "Mentions of alternative setups and budgets."
+                        ]
+                    },
+                    {
+                        "heading": "Sentiments and Reflections",
+                        "comments": [
+                            "Building a first PC is a memorable milestone.",
+                            "Many related to the satisfaction of achieving this through hard work."
+                        ]
+                    }
+                ]
+            }
+        }
     },
     {
         "title": "Where to buy PC Parts in the Philippines GUIDE",
@@ -100,8 +148,105 @@
             "This post led me to recommend QLT South. I'm going to copy and paste what I posted in a more recent thread to warn others.\n\nSomeone recommended QLT south. I highly do not recommend QLT South. A friend of mine had two PCs built by them. Both times it required him to bring the PC back to the shop. What a hassle. When electrical issues occurred they took no responsibility and claimed they did not know their build decisions would cause electrical issues. Fried Mobo, burnt pins on the CPU.\n\nI recommended him to go to Hardware Sugar and he's been very pleased with everything relating to their shop.",
             "Nakakafrustrate. Wala kasi dito sa Cebu! Kung meron man, sobrang laki na ng patong nila. Saklap pag wala sa Metro Manila."
         ],
-        "summary": "In this Reddit thread, a user seeks advice on purchasing a gaming laptop within a budget of 50-60k Philippine pesos, currently struggling with a low-performance laptop that runs games at 10-20 fps. The community responds with a wealth of recommendations, predominantly suggesting laptops from brands like Lenovo (especially the LOQ and Legion series), Acer Nitro, and Asus TUF Gaming. Key advice includes looking for laptops with at least an NVIDIA RTX 3050-4060 GPU, 16GB RAM, and a recent generation processor (Ryzen 5 or Intel i5 12th gen and above). Many commenters emphasize the importance of balancing performance and budget, with some even suggesting alternative options like second-hand laptops or considering a desktop build for better value. The discussion reveals a supportive tech community eager to help a fellow gamer find an affordable solution to improve their gaming experience.",
-        "index": 1
+        "index": 1,
+        "summary": {
+            "title": "PC Parts Buying Guide Philippines",
+            "sections": [
+                {
+                    "heading": "Physical Stores",
+                    "pros": [
+                        "Direct inspection",
+                        "Testing",
+                        "On-site building",
+                        "Warranty service"
+                    ],
+                    "cons": [
+                        "Limited availability",
+                        "Higher prices"
+                    ]
+                },
+                {
+                    "heading": "Online Stores",
+                    "pros": [
+                        "Price comparison",
+                        "Discounts/vouchers",
+                        "Wider availability"
+                    ],
+                    "cons": [
+                        "No testing before purchase",
+                        "Shipping delays",
+                        "Warranty hassles"
+                    ]
+                },
+                {
+                    "heading": "Top Recommended Stores",
+                    "stores": [
+                        {
+                            "name": "DynaQuestPC",
+                            "features": [
+                                "Hard-to-find parts",
+                                "Multiple locations"
+                            ]
+                        },
+                        {
+                            "name": "PCHub",
+                            "features": [
+                                "Competitive prices in Gilmore"
+                            ]
+                        },
+                        {
+                            "name": "Hardware Sugar",
+                            "features": [
+                                "Real-time service monitoring"
+                            ]
+                        },
+                        {
+                            "name": "The Rig Builders",
+                            "features": [
+                                "Strong customer support",
+                                "Custom builds"
+                            ]
+                        },
+                        {
+                            "name": "EasyPC",
+                            "features": [
+                                "Regular promotions",
+                                "Multiple locations"
+                            ]
+                        },
+                        {
+                            "name": "Bermor Techzone",
+                            "features": [
+                                "Newbie-friendly",
+                                "Pre-built options"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Regional Options",
+                    "stores": [
+                        {
+                            "location": "Cebu",
+                            "name": "CebuApplianceCenter IT"
+                        },
+                        {
+                            "location": "Mindanao",
+                            "name": "Steezy GadgetHub"
+                        },
+                        {
+                            "location": "Pampanga",
+                            "name": "Techsyapo"
+                        },
+                        {
+                            "location": "CDO",
+                            "name": "Technoblast computer trading"
+                        }
+                    ]
+                }
+            ],
+            "conclusion": "Community feedback indicates DynaQuestPC and PCHub are particularly trusted for reliability and pricing, while newer stores like The Rig Builders and Hardware Sugar are praised for customer service."
+        }
     },
     {
         "title": "good laptop for running games decently",
@@ -146,8 +291,21 @@
             "I highly recommend anything from lenovo, preferably yung LOQ, or if afford mo, yung legion.",
             "would recommend ASUS TUF GAMING F15 FX506HCHN111W. Dun sa isang computer store samin, around 48k sya.\n\nGraphics is rtx 3050. Intel Core i5-11400H sya which was released nung 2021, so not too long ago pa naman. \n\nOk to if you're not going after newer games.\n\nAvoid AMD processors rin. Maganda performance, but easily heats up, lalo na sa Pinas."
         ],
-        "summary": "In this Reddit thread, a user seeks advice on purchasing a gaming laptop within a budget of 50-60k Philippine pesos, currently struggling with a low-performance laptop that runs games at 10-20 fps. The community responds with a wealth of recommendations, predominantly suggesting laptops from brands like Lenovo (especially the LOQ and Legion series), Acer Nitro, and Asus TUF Gaming. Key advice includes looking for laptops with at least an NVIDIA RTX 3050-4060 GPU, 16GB RAM, and a recent generation processor (Ryzen 5 or Intel i5 12th gen and above). Many commenters emphasize the importance of balancing performance and budget, with some even suggesting alternative options like second-hand laptops or considering a desktop build for better value. The discussion reveals a supportive tech community eager to help a fellow gamer find an affordable solution to improve their gaming experience.",
-        "index": 2
+        "index": 2,
+        "summary": {
+            "title": {
+                "description": "The user is looking for a laptop with decent specs for gaming, particularly for games like Valorant, PUBG, Warframe, and Overwatch 2, with a budget of around 50k to 60k pesos. They are currently experiencing poor FPS performance on their old laptop, resulting in a laggy gaming experience."
+            },
+            "sections": [
+                "Lenovo LOQ and Acer gaming laptops for a budget-friendly option.",
+                "Lenovo Legion series with RTX 3050/3050Ti for better performance.",
+                "Consider second-hand laptops as they depreciate quickly, which might offer better specs within the budget.",
+                "MSI GF63 Thin, Acer Predator, Asus TUF, and Gigabyte laptops were also recommended for their value and specs.",
+                "Some users suggested extending the budget to 75k for more options, such as RTX 4060 models.",
+                "Several users highlighted the importance of getting a laptop with at least 16GB RAM and a GTX 1650 GPU or better.",
+                "A few users also mentioned the option of building a PC for better long-term performance at a lower cost."
+            ]
+        }
     },
     {
         "title": "RTX 3000 GPU price watching updates here.",
@@ -233,7 +391,6 @@
             "Hi, what's the price of Gigabyte RTX 2070 super right now? My friend is offering to sell it to me at 15k. Not sure if it is worth it or not.",
             "Can anyone check if okay yung price ng brand new \"Asus TUF Gaming GeForce RTX 3060 TI 8GB GDDR6X\" - yung bagong GDDR6X at around 30995? Just saw it on some local online sites. I wonder if ano yung actual MSRP nya. thanks"
         ],
-        "summary": "The post provides an update on the pricing of the RTX 3000 series GPUs in the Philippines. It compares the current prices from stores with the original MSRP by Nvidia. The GPUs listed include the RTX 3050 to RTX 3080 Ti, with prices ranging from Php 16,000 to Php 65,000. The post also categorizes different brands based on their pricing: entry to premium (e.g., Colorful, PNY, Zotac) and premium (e.g., ASUS, MSI, Gigabyte). Additionally, it mentions some rare but reputable brands like Gainward and Maxsun. A Google Sheet link is provided for ongoing price tracking, and updates will be made monthly or when prices reach MSRP. Comments include price drop alerts and further discussions on GPU choices.",
         "index": 3
     },
     {
@@ -281,8 +438,7 @@
             "Hi OP any recommendations for intel build?",
             "looking for build guide with 15-20k budget, just helping a friend who\u2019s not in reddit"
         ],
-        "index": 4,
-        "summary": "In this Reddit thread, a user shares their experience of building a PC on a budget of 26k Philippine pesos, taking advantage of Shopee vouchers for discounts. The community responds with a variety of recommendations, including multiple build options with different components for gaming and productivity. The original build suggests a Ryzen 5 5600, Asrock B550M motherboard, Adata SSD, and a Powercolor RX 6600 GPU, totaling 26,171 pesos. Additional builds, such as the AM4 and AM5 voucher builds, provide options for users looking for different configurations and higher performance. Users share their experiences with using multiple accounts for maximizing discounts, ask questions about compatibility, and inquire about specific games like Valorant and Genshin Impact. The discussion highlights the importance of maximizing the value of available vouchers, as well as offers alternative suggestions for GPUs and motherboards, including second-hand and brand-new options. Overall, the thread fosters a supportive environment where gamers share tips and help each other build affordable and effective gaming setups."
+        "index": 4
     },
     {
         "title": "I received a PC from u/Pinkman--",
@@ -299,8 +455,7 @@
             "Congrats, Op!! Happy Gaming",
             "Congrats! Now my turn! (Jk)"
         ],
-        "index": 5,
-        "summary": "In this Reddit thread, a user expresses gratitude for receiving a free PC from another community member, u/Pinkman--. The post highlights the generosity of the community and the user's excitement about finally being able to play games, particularly Dota 2, with decent performance. The comments are overwhelmingly positive, with users congratulating the recipient and expressing joy for their good fortune. The thread demonstrates the supportive nature of the gaming community, with members celebrating the user's newfound ability to game and wishing them well. The excitement is palpable, with comments ranging from 'Advance Merry Christmas!' to playful remarks about gaming together, showcasing the camaraderie and shared enthusiasm among gamers."
+        "index": 5
     },
     {
         "title": "Saan ba dapat bumili ng parts",
@@ -330,8 +485,7 @@
             "What did the post about IT world say? its removed",
             "Pwede ba ipasok si Softbox Solutions (Q.Ave cor Edsa) dito?\n\nAltho once pa lang ako nakabili sa kanila pero for years na nag tatanong ako miski hindi na ako bumibili, tlgang sinasagot nila mga questions ko.."
         ],
-        "index": 6,
-        "summary": "A comprehensive Reddit post outlines where to buy PC parts in the Philippines, comparing physical and online stores. For physical stores, key recommendations include EasyPC, PCExpress, PCHub, and DynaQuestPC, highlighting benefits like testing products before purchase and immediate customer service. For online shopping, the post recommends trusted sellers like tech2027, Digiserve, and Zenith Avenue Era on platforms like Lazada. The community's comments validate many recommendations while adding suggestions like PC Worth, IT World, and regional stores. Users share personal experiences, with most emphasizing the importance of warranty service, customer support, and price comparisons between physical and online retailers."
+        "index": 6
     },
     {
         "title": "Don't Overthink your PC Build, don't worry too much about the future.",
@@ -361,8 +515,7 @@
             "Be happy for each fellow gamerz na bumubuo o kakabuo ng rig ;)",
             "Sana ma sticky eto. Newcomers need to see this."
         ],
-        "index": 7,
-        "summary": "A Reddit post advises budget-conscious PC builders to avoid overthinking 'future-proofing.' It emphasizes focusing on practical needs rather than chasing the latest tech. Key takeaways include: Prioritize PSU: Invest in a reliable PSU (Gold-rated, 500-750W) as it can transition to future builds. While Bronze-rated PSUs are also viable, choosing a reputable brand is crucial. CPU/GPU Advice: Mid-range options like Ryzen 5/7 or Intel i5 paired with a mid-tier GPU (e.g., RTX 3060) are sufficient for most games at 1080p settings. Avoid overpaying for CPUs, motherboards, or overclocking features unless you have specific needs. AM4 vs. AM5 Debate: AM4 remains cost-effective and viable for years, contrary to claims about its obsolescence. Realistic Expectations: Most gamers don't need ultra settings or high-end builds to enjoy games. Focus on maximizing value within your budget. Community Insights: Comments share relatable experiences, highlighting common pitfalls like overthinking builds or falling for future-proofing' marketing. Many emphasize the satisfaction of well-balanced, budget-friendly builds. The post encourages gamers to build within their means, enjoy the present, and plan for upgrades only when necessary."
+        "index": 7
     },
     {
         "title": "Yes, you don't need an AIO.",
