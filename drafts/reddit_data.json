@@ -391,7 +391,26 @@
             "Hi, what's the price of Gigabyte RTX 2070 super right now? My friend is offering to sell it to me at 15k. Not sure if it is worth it or not.",
             "Can anyone check if okay yung price ng brand new \"Asus TUF Gaming GeForce RTX 3060 TI 8GB GDDR6X\" - yung bagong GDDR6X at around 30995? Just saw it on some local online sites. I wonder if ano yung actual MSRP nya. thanks"
         ],
-        "index": 3
+        "index": 3,
+        "summary": {
+            "title": {
+                "description": "This document tracks GPU prices for NVIDIA's RTX 3000 series (3050 through 3080 Ti) in the Philippines from 2021 to 2023, comparing official MSRP prices to actual store prices, with prices marked in italic bold when below MSRP."
+            },
+            "sections": [
+                "RTX 3050: \u20b116,000 - \u20b124,000",
+                "RTX 3060: \u20b119,500 - \u20b125,000",
+                "RTX 3060 Ti: \u20b122,000 - \u20b128,000",
+                "RTX 3070: \u20b129,500 - \u20b137,900",
+                "RTX 3070 Ti: \u20b135,000 - \u20b145,000",
+                "RTX 3080: \u20b144,999 - \u20b165,000",
+                "RTX 3080 Ti: \u20b145,000 - \u20b165,000",
+                "Entry to premium brands: Colorful, PNY, Palit, Zotac, Galax, Inno3D, Gigabyte",
+                "Premium brands: ASUS, Gigabyte, MSI, Zotac",
+                "Rare but good brands: Gainward, Maxsun, Yeston",
+                "Price trend: Prices declined from 2021 to 2023, returning to MSRP levels after the crypto mining-induced inflation.",
+                "The price tracking was moved to a Google Spreadsheet on January 30, 2023, which now includes both NVIDIA and AMD Radeon GPUs."
+            ]
+        }
     },
     {
         "title": "26k SHOPEE voucher build.",
@@ -438,7 +457,22 @@
             "Hi OP any recommendations for intel build?",
             "looking for build guide with 15-20k budget, just helping a friend who\u2019s not in reddit"
         ],
-        "index": 4
+        "index": 4,
+        "summary": {
+            "title": {
+                "description": "This Reddit post discusses PC building deals in the Philippines, focusing on a 26,000 PHP (~$465 USD) gaming build using Shopee e-commerce platform vouchers, with additional build configurations and recommendations."
+            },
+            "sections": [
+                "Multiple PC build configurations: Original 26k build, AM4 build, AM5 build, and an extra budget build.",
+                "Prices quoted include 30% Shopee vouchers with a 1.5k cap, refreshed at midnight.",
+                "Recommendation to use multiple accounts (friends/family) to maximize voucher usage.",
+                "Detailed parts lists with prices from sellers like IT World, Colorful, Pixelplay.",
+                "New and used GPU options provided at different price points.",
+                "Author uses a Ryzen 5 5600 with RX 6600 for good 1080p gaming performance.",
+                "Comment section covers alternative component choices, build assistance, compatibility, specific game performance, voucher usage, warranty concerns, and WiFi capabilities.",
+                "The post aims to help users avoid overpriced prebuilt PCs and make informed decisions when building their own gaming computers within a budget."
+            ]
+        }
     },
     {
         "title": "I received a PC from u/Pinkman--",
@@ -455,7 +489,22 @@
             "Congrats, Op!! Happy Gaming",
             "Congrats! Now my turn! (Jk)"
         ],
-        "index": 5
+        "index": 5,
+        "summary": {
+            "title": {
+                "description": "This heartwarming Reddit post features a user who received a free PC from another user named 'Pinkman--'. The recipient is grateful and excited to play games, especially Dota 2, with better frame rates."
+            },
+            "sections": [
+                "Recipient expresses gratitude for receiving a free PC and is excited to play games like Dota 2 with decent frame rates.",
+                "Comments are positive and celebratory, with users wishing the recipient a Merry Christmas and congratulating them.",
+                "Friendly jokes about Dota 2, with invitations to play together.",
+                "Praise for Pinkman--'s generosity and helpfulness.",
+                "Inquiries about the PC's specifications.",
+                "One comment suggests using the original budget for upgrading components such as GPU, CPU, and CPU cooler.",
+                "Question about shipping costs from Lipa to Taguig, Philippines.",
+                "Overall, the post reflects community generosity and support among PC gaming enthusiasts in the Philippines."
+            ]
+        }
     },
     {
         "title": "Saan ba dapat bumili ng parts",
@@ -485,7 +534,67 @@
             "What did the post about IT world say? its removed",
             "Pwede ba ipasok si Softbox Solutions (Q.Ave cor Edsa) dito?\n\nAltho once pa lang ako nakabili sa kanila pero for years na nag tatanong ako miski hindi na ako bumibili, tlgang sinasagot nila mga questions ko.."
         ],
-        "index": 6
+        "index": 6,
+        "summary": {
+            "title": {
+                "description": "This comprehensive guide compares where to buy PC parts in the Philippines, outlining both physical and online stores with their pros and cons."
+            },
+            "sections": [
+                {
+                    "category": "Physical Stores",
+                    "pros": [
+                        "Can inspect parts in person",
+                        "Immediate testing available",
+                        "Clear warranty process",
+                        "On-site PC building services",
+                        "Immediate availability if nearby",
+                        "Some offer loyalty programs"
+                    ],
+                    "cons": [
+                        "Stock availability issues",
+                        "Sometimes higher prices than online"
+                    ],
+                    "recommended_stores": [
+                        "EasyPC (multiple locations)",
+                        "PCExpress (mall-based)",
+                        "PCHub (Gilmore)",
+                        "PC Options (multiple locations)",
+                        "DynaQuestPC (multiple locations)",
+                        "Regional stores: Bermor Zone (Laoag), CebuApplianceCenter IT (Cebu), Steezy GadgetHub (Mindanao)"
+                    ]
+                },
+                {
+                    "category": "Online Stores",
+                    "pros": [
+                        "Easy price comparison",
+                        "Discounts and vouchers available",
+                        "Better product availability"
+                    ],
+                    "cons": [
+                        "Can't test before purchase",
+                        "Shipping delays",
+                        "Warranty claims may take longer"
+                    ],
+                    "recommended_stores": [
+                        "tech2027",
+                        "Digiserve",
+                        "DynaQuestPC",
+                        "PCHub"
+                    ]
+                },
+                {
+                    "category": "Commentary",
+                    "feedback": [
+                        "Several users recommend IT World, PC Worth, and Dynaquest as top stores.",
+                        "Mixed experiences with EasyPC (some negative feedback).",
+                        "Some users prefer online shopping for better prices.",
+                        "Additional stores recommended: PC Configure and Techsyapo (Pampanga area).",
+                        "Many emphasize the importance of customer service and warranty support."
+                    ]
+                },
+                "The post is regularly updated based on community feedback and experiences."
+            ]
+        }
     },
     {
         "title": "Don't Overthink your PC Build, don't worry too much about the future.",
@@ -515,7 +624,32 @@
             "Be happy for each fellow gamerz na bumubuo o kakabuo ng rig ;)",
             "Sana ma sticky eto. Newcomers need to see this."
         ],
-        "index": 7
+        "index": 7,
+        "summary": {
+            "title": {
+                "description": "This post provides advice to new PC builders in the Philippines about avoiding the trap of 'future-proofing' their builds and focusing on practical, current needs."
+            },
+            "sections": [
+                "Only future-proof your Power Supply Unit (PSU), as it can transfer to future builds.",
+                "Future-proofing is mainly for enthusiasts who upgrade frequently.",
+                "For average gamers with a 40-50K PHP budget, focus on getting the best current value.",
+                "A Ryzen 5/7 or Intel i5 + mid-range GPU is sufficient for most gaming needs.",
+                "Don't overspend on CPU, motherboard, or RAM \u2013 basic components are fine.",
+                "Ignore claims that 'AM4 is dead' \u2013 older platforms like AMD's AM4 are still viable.",
+                "A well-chosen budget build can last 5 years.",
+                "Focus on enjoying gaming rather than stressing about future upgrades."
+            ],
+            "comments": [
+                "Bronze PSUs from good brands can be sufficient (don't need Gold).",
+                "Many users share personal experiences of being satisfied with mid-range builds.",
+                "Several users mention previously stressing about 'future-proofing'.",
+                "Debate about AM4 vs AM5 platforms.",
+                "Users emphasize that high-end specs aren't necessary for most gamers.",
+                "Discussion about how even older hardware can still run modern games well."
+            ],
+            "overall_message": "Build what you can afford now that meets your current needs, rather than overspending on potential future capabilities you may never use.",
+            "dissenting_view": "One dissenting view argues that buying higher quality parts initially can be more cost-effective long-term, comparing it to car depreciation."
+        }
     },
     {
         "title": "Yes, you don't need an AIO.",
@@ -604,7 +738,32 @@
             "pa woke pc builders",
             "IAO is good for CPU's that have an aggressive boost speed because they can absorb more heat because of their thermal mass. I think you choose the wrong community to voice your opinion. It's called PCmasterrace for a reason not PCbudgetrace."
         ],
-        "index": 8
+        "index": 8,
+        "summary": {
+            "title": {
+                "description": "This post gives advice to new PC builders in the Philippines about avoiding the trap of 'future-proofing' their builds and focusing on current needs."
+            },
+            "sections": [
+                "Only truly future-proof your Power Supply Unit (PSU), as it can transfer to future builds.",
+                "Future-proofing is mainly for enthusiasts who upgrade frequently.",
+                "For average gamers with a 40-50K PHP budget, focus on getting the best current value.",
+                "A Ryzen 5/7 or Intel i5 + mid-range GPU is sufficient for most gaming needs.",
+                "Don't overspend on CPU, motherboard, or RAM\u2014basic components are fine.",
+                "Ignore claims that 'AM4 is dead'\u2014older platforms like AMD's AM4 are still viable.",
+                "A well-chosen budget build can last 5 years.",
+                "Focus on enjoying gaming rather than stressing about future upgrades."
+            ],
+            "comments": [
+                "Bronze PSUs from good brands can be sufficient (don\u2019t need Gold).",
+                "Many share personal experiences of being satisfied with mid-range builds.",
+                "Several users mention being previously stressed about 'future-proofing'.",
+                "Some debate about AM4 vs AM5 platforms.",
+                "Users emphasize that high-end specs aren't necessary for most gamers.",
+                "Discussion about how even older hardware can still run modern games well."
+            ],
+            "overall_message": "Build what you can afford now that meets your current needs, rather than overspending on potential future capabilities you may never use.",
+            "dissenting_view": "One dissenting view argues that buying higher quality parts initially can be more cost-effective long-term, comparing it to car depreciation."
+        }
     },
     {
         "title": "11/11 Cheat Sheet for Shopee / Lazada / Amazon",
@@ -633,7 +792,48 @@
             "should i pull the trigger on sn850x 2tb at 8.3k on amazonnow or will it go lower on black friday?",
             "That's what I'm talking about!\n\n\nThat's why\u00a0 u/jellyfish1047 is the MVP!\n\n\nThat's why\u00a0u/jellyfish1047 is the GOAT; the GOAT!"
         ],
-        "index": 9
+        "index": 9,
+        "summary": {
+            "title": {
+                "description": "This post provides a cheat sheet for deals on multiple platforms, including Shopee, Lazada, and Amazon, with vouchers, product recommendations, and special offers."
+            },
+            "sections": [
+                {
+                    "vouchers": {
+                        "description": "Vouchers with discounts and special offers on platforms like Lazada, Shopee, and Amazon.",
+                        "details": [
+                            "0% Spaylater for 1700 minimum spend on 10k with 3-month validity.",
+                            "Special codes for Lazada and Amazon with discounts up to 15%.",
+                            "Additional Lazada codes: LAZADA300 (Min spend 750, 15% off max 300), LAZADA500 (Min spend 750, 15% off max 500)."
+                        ]
+                    }
+                },
+                {
+                    "important_tips": {
+                        "description": "Tips for using coins and free rewards on Lazada.",
+                        "details": [
+                            "Coins Method (Lazada): Add items to the cart and exit, check if coins appear, then delete items or retry if not.",
+                            "Lazada Free LazRewards (Nov 8-13): Use the code 'LAZAFF1111SALE' for higher rewards based on early participation."
+                        ]
+                    }
+                },
+                {
+                    "product_deals": {
+                        "description": "Deals on various tech products, including motherboards, memory, and SSDs.",
+                        "amazon_deals": [
+                            "MSI B650-S Wifi (PHP 7,587) \u2014 Good Budget B650 Board.",
+                            "DDR4 32GB kits from Patriot starting at PHP 2,801.",
+                            "SSD options ranging from Adata to Samsung."
+                        ],
+                        "lazada_deals": [
+                            "Xiaomi Light Bar (PHP 1,289).",
+                            "AMD CPUs like R5 5600 (PHP 4,513.16) with additional coins.",
+                            "Various GPUs and PSUs on sale with coins to redeem."
+                        ]
+                    }
+                }
+            ]
+        }
     },
     {
         "title": "If you are posting to ask for help building or upgrading a PC, please follow this template",
@@ -645,7 +845,35 @@
             "How to copy paste? Im using reddit on mobile",
             "\n```\n* **What are you using the system for?** Gaming\n* **What's your budget?** 1100$/ 60k Php\n* **Does your budget include peripherals & monitor?** yes\n* **If you're gaming, what is your monitor resolution / refresh rate?** 160+hz\n* **If you\u2019re doing professional work, what software do you need to use?** idk\n```"
         ],
-        "index": 10
+        "index": 10,
+        "summary": {
+            "title": {
+                "description": "This post template helps users seeking assistance with building or upgrading a PC, by gathering key information about their needs."
+            },
+            "sections": [
+                {
+                    "questions": {
+                        "description": "Key questions to ask users in order to gather information for PC building or upgrading.",
+                        "details": [
+                            "System usage (gaming, office work, professional tasks, etc.).",
+                            "Budget for the build, including or excluding peripherals and monitor.",
+                            "Gaming-specific details like monitor resolution/refresh rate.",
+                            "Professional work requirements, including the software used."
+                        ]
+                    }
+                },
+                {
+                    "comments": {
+                        "description": "User comments responding to the template with their system needs, providing various budgets, gaming preferences, and software requirements.",
+                        "examples": [
+                            "User 1: Budget of 40k PHP, needs a system for gaming at 1080p 144Hz with games like Valorant and PUBG.",
+                            "User 2: Budget of 60k PHP, needs a system for video editing with software like Adobe Premiere Pro and After Effects.",
+                            "User 3: Budget of 30k PHP, needs a basic system for office work and web browsing."
+                        ]
+                    }
+                }
+            ]
+        }
     },
     {
         "title": "Broke boi gamer for 11 years and now I finally bought a decent (used) gpu",
@@ -673,7 +901,34 @@
             "that card can handle pretty much any game you throw at it these days! sure maybe not at 4k ultra settings lol but it will absolutely give you many many hours of great gaming. enjoy!",
             "Slowly leveling up, that's where I'm going too lol\n\nFrom Dell Vostro to a desktop 2060 super to a 4060 in about a month's time"
         ],
-        "index": 11
+        "index": 11,
+        "summary": {
+            "title": {
+                "description": "A 'broke boi' gamer's journey working two part-time jobs to afford a better PC, upgrading from a used 750ti to a 1660ti, and the joy of the upgrade."
+            },
+            "sections": [
+                {
+                    "journey": {
+                        "description": "The poster's experience of working two part-time jobs in high school to save up for a good gaming PC, buying a used 750ti during the 30 series GPU release, and recently upgrading to a used 1660ti.",
+                        "details": [
+                            "Worked two part-time jobs in high school to save money for a gaming PC.",
+                            "Purchased a used 750ti just when the 30 series GPUs were released.",
+                            "Upgraded to a used 1660ti after several years and felt immense happiness over the improvement."
+                        ]
+                    }
+                },
+                {
+                    "comments": {
+                        "description": "The comment section where users express congratulations, share their own upgrade stories, and offer advice.",
+                        "details": [
+                            "Many users congratulate the poster and share their own stories of upgrading from older hardware.",
+                            "Some users provide advice about power supply compatibility with newer components.",
+                            "Others highlight the significance of upgrading to a more capable gaming setup and the joy that comes with it."
+                        ]
+                    }
+                }
+            ]
+        }
     },
     {
         "title": "Where to get cheap or free Microsoft Office? This is for my new work laptop (my work will be writing/researching/editing related)",
@@ -692,7 +947,38 @@
             "if you have/still have your university or college email, you could download it for free. just login in microsoft's website using that email. If you dont have that, gdocs and libreoffice are great alternatives",
             "For my school paper or blogging purpose, MS Office 2007 and [Apache OpenOffice](https://www.openoffice.org/) at the same time is what I use often.\n\nWithout any BS (sorry), ayoko lang ng comparison. Why use only ONE if I can use BOTH, di ba?\n\nBesides, last year, gusto kong mag-subscribe sa [MS 365](https://www.office.com/), kaso mahal."
         ],
-        "index": 12
+        "index": 12,
+        "summary": {
+            "title": {
+                "description": "A post asking for suggestions on where to get cheap or free Microsoft Office for a new work laptop used for writing, researching, and editing, with a current price of 3.5k pesos at Greenhills."
+            },
+            "sections": [
+                {
+                    "post": {
+                        "description": "The poster is seeking cheaper or free options for Microsoft Office for a new work laptop. They mention finding a price of 3.5k pesos at Greenhills but are looking for better deals.",
+                        "details": [
+                            "The user needs Microsoft Office for writing, researching, and editing tasks on their new laptop.",
+                            "They found Microsoft Office priced at 3.5k pesos at Greenhills but want to find more affordable options."
+                        ]
+                    }
+                },
+                {
+                    "comments": {
+                        "description": "The comment section provides several suggestions for free or discounted Microsoft Office alternatives.",
+                        "details": [
+                            "Microsoft Office online via office.com with a Microsoft account and an internet connection (free).",
+                            "LibreOffice as a free offline alternative, although it may have alignment issues with MS Office files.",
+                            "Google Docs, a free option that allows for collaboration and document editing.",
+                            "Discounted Microsoft Office through a YouTube channel, offering prices around 800-1000 pesos with a discount code.",
+                            "A paid Microsoft 365 subscription with OneDrive for storage is another option.",
+                            "Sites like productkey.ph provide legitimate deals for purchasing Microsoft Office.",
+                            "Free Microsoft Office for students with a university email.",
+                            "Older versions like MS Office 2007 or Apache OpenOffice as alternative solutions."
+                        ]
+                    }
+                }
+            ]
+        }
     },
     {
         "title": "windows 10 pro key where to buy",
@@ -715,7 +1001,36 @@
             "Or just skip the licensing part. May smol watermark ka lang na activate windows pero updates work legitimately \ud83d\ude02",
             "Kung ako sayo OP since GCASH gamit mong Payment Method\n\n\nBa't di mo subukan mag:\nhttps://youtu.be/75VcESAynHk?feature=shared\n\n\n\nPS: American Express Virtual Pay Card yan a.k.a Virtual Debit"
         ],
-        "index": 13
+        "index": 13,
+        "summary": {
+            "title": {
+                "description": "A post seeking a cheap Windows 10 Pro key for a first gaming PC build, considering Lazada but unsure about legitimacy, and being limited to GCash and COD due to being a person with a disability (PWD)."
+            },
+            "sections": [
+                {
+                    "post": {
+                        "description": "The poster is looking for a cheap Windows 10 Pro key for their gaming PC build. They are considering Lazada, where keys are priced around 100 PHP, but they are concerned about the legitimacy of the sellers. They are limited to GCash and COD payment methods due to their status as a person with a disability (PWD).",
+                        "details": [
+                            "User is building their first gaming PC and needs a cheap Windows 10 Pro key.",
+                            "They are considering Lazada but are unsure about the legitimacy of sellers.",
+                            "Payment methods are limited to GCash and COD due to being a person with a disability."
+                        ]
+                    }
+                },
+                {
+                    "comments": {
+                        "description": "The comments provide several options for purchasing legitimate Windows 10 Pro keys and some advice on alternative methods.",
+                        "details": [
+                            "Productkey.ph is recommended for legitimate keys, with one commenter buying a key for 1,880 PHP that worked for nearly two years without issues.",
+                            "Digitalchillmart.com is suggested for $20 Windows keys, with a discount code bringing it down to $10. Retail licenses are preferred as they are transferable and last longer.",
+                            "CDKeyOffer was mentioned as a source for Windows 10 Pro keys for around 991 PHP, but a credit card is needed for payment.",
+                            "Some comments discuss using KMSPico (pirated activation) or skipping activation (results in a watermark), though these methods are not recommended for long-term use.",
+                            "A user suggests using a Virtual Debit card for payment via GCash to access more options."
+                        ]
+                    }
+                }
+            ]
+        }
     },
     {
         "title": "So... Amazon gave me a free graphics card",
@@ -744,7 +1059,37 @@
             "Something similar happened to me, my item was tagged as \"lost\" and I could request a refund. However I did receive the item so I just let the request expire.",
             "Oh you got it tax free? damn, nice."
         ],
-        "index": 14
+        "index": 14,
+        "summary": {
+            "title": {
+                "description": "A post about someone who received a free graphics card from Amazon after a refund was issued on their order."
+            },
+            "sections": [
+                {
+                    "post": {
+                        "description": "The user ordered an Acer Bifrost Intel Arc A750 graphics card during Black Friday when the price dropped below 10,000 PHP. Upon receiving the card, they tested it with Cyberpunk 2077 and found it performed well at 75 FPS on 1440p Ultra with XeSS enabled. Unexpectedly, the user received a refund from Amazon, likely due to the package being tagged as damaged during shipment, even though the card was in perfect working condition. The user expresses surprise and gratitude for Amazon's generosity.",
+                        "details": [
+                            "Ordered an Acer Bifrost Intel Arc A750 on Black Friday for under 10,000 PHP.",
+                            "Tested the card on Cyberpunk 2077, achieving 75 FPS on 1440p Ultra with XeSS enabled.",
+                            "Received a refund from Amazon due to package being tagged as damaged during shipment, despite the card being in good condition.",
+                            "User is surprised and grateful for Amazon's generosity."
+                        ]
+                    }
+                },
+                {
+                    "comments": {
+                        "description": "The comments highlight users' experiences with Amazon's generous refund policies and discuss the possibility of returns being flagged. Some humorously share envy about the \u2018free GPU\u2019 while others discuss their own Amazon orders.",
+                        "details": [
+                            "Several users share experiences with Amazon's refund policy, especially when items are damaged or lost during shipment.",
+                            "Some users received big refunds for higher-value items.",
+                            "A few people joke about being envious of the 'free GPU' and share stories of Amazon mishaps and refunds.",
+                            "There\u2019s discussion about the potential of being tagged for returns, with advice to contact Amazon if that happens.",
+                            "Some users are curious about taxes and shipping fees for international Amazon orders."
+                        ]
+                    }
+                }
+            ]
+        }
     },
     {
         "title": "r/PHBuildaPC will go dark starting June 12th in protest of Reddit's proposed API changes.",
@@ -756,7 +1101,26 @@
             "Thanks for sending this out u/Ryvaeus.  Let us know if you decide to go with the 48-hour blackout or longer.",
             "As an Infinity user, I support this."
         ],
-        "index": 15
+        "index": 15,
+        "summary": {
+            "title": {
+                "description": "A post announcing the planned blackout of r/PHBuildaPC and r/PHGamers subreddits to protest Reddit's API policy changes."
+            },
+            "sections": [
+                {
+                    "post": {
+                        "description": "The r/PHBuildaPC and r/PHGamers subreddits are planning a blackout starting on June 12, 2023, to protest Reddit's API policy changes. These changes will make it unaffordable for developers to maintain third-party apps like Apollo and Reddit is Fun, which could impact the accessibility and functionality of Reddit for many users, including those with visual impairments. The blackout is a call for Reddit to listen to the concerns of moderators, contributors, and users about the long-term viability of the platform.",
+                        "details": [
+                            "Reddit is charging $12,000 per 50 million API requests, making third-party Reddit apps unsustainable.",
+                            "The change will hurt visually-impaired users who rely on third-party apps for accessibility.",
+                            "Moderation tools will stop working, leading to more spam and bots.",
+                            "r/PHBuildaPC and r/PHGamers will go private on June 12, 2023, and stay offline for an undetermined period.",
+                            "Users are encouraged to support the boycott, learn more, and voice concerns to Reddit admins."
+                        ]
+                    }
+                }
+            ]
+        }
     },
     {
         "title": "I got overwhelmed sa Gilmore",
@@ -811,7 +1175,27 @@
             "Hahaha, ako pag anjan banat ko sa mga ninja, technician ako at me kausap na ako.\n\nMinsan pinatulan ko, sinabi ko specs ng laptop ko, pina kita sa ken mga lumang models... \"mabibilis mga yan sir\" \n\nAng layo sa need ko, sinabi ko specs ng need ko, inask budget ko... sinabi ko budget ko.\n\nSabay banat ng Ninja ng \"wala kang makukuhang ganyan\"\n\nPatola mode ako kulit e, sinagot ko ng \" Meron dalawa pa nga, ke P* C*****L at ke B****R, pwede mo ko samahan boss\"\n\nHihintay ko banat nya na \" pag me nakita ka buy mo ko 2 o 10\" \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\n\n\nEnding dedma, alis na... basta pag lalakad ka jan dpat alam mo puntahan mo, at wala lingon lingon hehehe",
             "Ask lang po. Saang store makakabili ng laptop jan sa Gilmore? Yung mura tapos maganda service."
         ],
-        "index": 16
+        "index": 16,
+        "summary": {
+            "title": {
+                "description": "Author shares a frustrating experience at Gilmore, a popular tech hub in the Philippines, involving fixers, unclear pricing, and poor service."
+            },
+            "sections": [
+                {
+                    "post": {
+                        "description": "The author recounts their frustrating experience at Gilmore, a popular tech hub in the Philippines. Upon their first visit, they were immediately approached by fixers as soon as they stepped off the LRT. After being directed to a shop with no services available for GPU repair, they were taken to a makeshift technician's space where they felt ignored and mistreated. The repair price was unclear, and the author was charged an exorbitant fee for a simple test. After tense interactions and being offered unsolicited services, the author decided to leave without getting their GPU fixed.",
+                        "details": [
+                            "Fixers approached the author as soon as they arrived, leading to confusion and frustration.",
+                            "The repair shop had no services available, and the author was led to an unprofessional makeshift technician space.",
+                            "The technician ignored the author and gave an unclear repair price, charging a high fee for a simple test.",
+                            "The author was offered various unsolicited services and experienced a tense interaction.",
+                            "The author advises only visiting Gilmore with prior knowledge of what they need and where to go, and prefers buying from reputable online stores.",
+                            "Commenters share similar frustrations with fixers and recommend doing research beforehand to avoid being overcharged or misled."
+                        ]
+                    }
+                }
+            ]
+        }
     },
     {
         "title": "GPU Philippines Pricing Early 2023 Nvidia & AMD Radeon",
@@ -819,7 +1203,26 @@
         "comments": [
             "mahal padin nung 3060\ud83d\ude2d\ud83d\ude2d, sabagay sa august pa naman ako bibili.\nGuys ano sa tingin nyo? bababa pa kaya yung price ng 3060 sa 2nd hand market?"
         ],
-        "index": 17
+        "index": 17,
+        "summary": {
+            "title": "GPU Philippines Pricing Early 2023 Nvidia & AMD Radeon",
+            "selftext": {
+                "summary": [
+                    "The post provides an aggregated reference for GPU prices from various stores in the Philippines, covering both Nvidia and AMD Radeon cards.",
+                    "A Google Sheets link is included to allow users to view the pricing data.",
+                    "The author previously shared RTX 3000 GPU price updates and aims to help users choose the best GPU for their upgrade.",
+                    "The author is reviewing the AMD and Nvidia tables but hasn't provided store links yet.",
+                    "Due to preparing for a board exam, updates are slower.",
+                    "The post encourages sharing the link on social media platforms, with credit to the author."
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Anonymous",
+                    "comment": "The 3060 remains expensive, though I plan to buy one in August. Do you think the second-hand price for the 3060 might drop?"
+                }
+            ]
+        }
     },
     {
         "title": "Amazon Black Friday / Cyber Monday PC Deals Guide 2024",
@@ -847,7 +1250,64 @@
             "check r/buildapcsales",
             "Hirap ng warranty, not worth the risk"
         ],
-        "index": 18
+        "index": 18,
+        "summary": {
+            "title": "Amazon Black Friday / Cyber Monday PC Deals Guide 2024",
+            "selftext": {
+                "summary": [
+                    "The post provides an updated guide to PC deals on Amazon during Black Friday and Cyber Monday.",
+                    "It includes several discount codes for use on Amazon, such as BPI10 for $10 off purchases over $100.",
+                    "The author offers advice on delivery times, shipping fees, and import taxes for buyers in the Philippines.",
+                    "The post includes recommendations for buying multiple items separately for easier shipping and explains Amazon's upfront conversion charge and possible refunds.",
+                    "The post also covers warranties, stating that most products are covered by US distributors unless otherwise specified.",
+                    "The author credits BG56 for the Amazon buying guide shared on the Official Discord Server."
+                ]
+            },
+            "current_deals": [
+                {
+                    "product": "AIO Coolers",
+                    "description": "Discounted AIO coolers with links to purchase."
+                },
+                {
+                    "product": "Headphones",
+                    "description": "Various headphones on sale with brief comments on each."
+                },
+                {
+                    "product": "Mechanical Keyboards",
+                    "description": "Deals on mechanical keyboards with purchase links."
+                },
+                {
+                    "product": "Monitors",
+                    "description": "Discounted monitors with brief review and purchase links."
+                },
+                {
+                    "product": "Motherboards",
+                    "description": "Motherboard deals with additional recommendations."
+                },
+                {
+                    "product": "Power Supplies",
+                    "description": "Discounted power supplies and explanations for each deal."
+                },
+                {
+                    "product": "RAM",
+                    "description": "Deals on RAM, including both budget and premium options."
+                },
+                {
+                    "product": "SSDs",
+                    "description": "Deals on SSDs with links and purchase advice."
+                }
+            ],
+            "comments": [
+                {
+                    "user": "Anonymous",
+                    "comment": "What do you think of SSD and power supply options for a mid-range build?"
+                },
+                {
+                    "user": "Anonymous",
+                    "comment": "Anyone else had issues with customs when ordering portable SSDs in the Philippines?"
+                }
+            ]
+        }
     },
     {
         "title": "I'm currently making the PHbuildaPC's Ultimate Suggestion Sheet",
@@ -857,7 +1317,22 @@
             "I forgot you're a mod in PHGamers but not here, so I got confused about the first sentence in your post.\n\nFeel free to collect suggestions but make sure to provide proper attribution and a link back to the original post if a suggestion came from someone in the subreddit.\n\nI would also advise noting down when a suggestion was made, so people reading your list in the future know whether they need to consider looking up more modern alternatives.\n\nLastly, it would be prudent of you to know that r/buildapc did something similar in the past. However even they, with their community size in the 1m+ number of users and handfuls of mods, eventually decided to let it deprecate when they realized how much work maintaining and updating such a database entails. This is not meant to deter the efforts of you and anyone else who volunteers, but instead to simply make you aware of the work involved.",
             "Naway magkaroon ng [pcpartpicker](https://pcpartpicker.com) na pang pinas."
         ],
-        "index": 19
+        "index": 19,
+        "summary": {
+            "title": "I'm currently making the PHbuildaPC's Ultimate Suggestion Sheet",
+            "summary": {
+                "description": [
+                    "You're creating a detailed Google Sheet to compile the best PC build suggestions and FAQs for various categories, such as:",
+                    "PC Vendors",
+                    "PC Builds (sorted by price range)",
+                    "Laptop Suggestions",
+                    "Monitors, Mice, Keyboards, Speakers, Headphones",
+                    "Office Chairs"
+                ],
+                "details": "This sheet will include prices, product descriptions, notes, vendor links, suggestion tiers, and reviews. It will be a reference guide for those looking for PC and accessory recommendations, and will be updated regularly, especially as new products are released."
+            },
+            "link": "https://docs.google.com/spreadsheets/d/1lGJQuHQyX7cvP5eUNkTZzYB0OYPZhMa7es1pUg_NeME/edit?gid=678916311#gid=678916311"
+        }
     },
     {
         "title": "r/PHBuildaPC will go dark indefinitely in 24 hours. Ladies and gentlemen, it's been a pleasure serving you these past 2 years.",
@@ -874,7 +1349,31 @@
             "Sorry for all the pinoys looking for pc help in the future. Thats the real loss here.",
             "o7\n\nThanks r/PHBuildaPC. Lurker lang most of the time pero ang dami ko natutunan dito."
         ],
-        "index": 20
+        "index": 20,
+        "summary": {
+            "title": "r/PHBuildaPC Goes Dark in Protest Against Reddit API Pricing",
+            "selftext": {
+                "description": [
+                    "This post on r/PHBuildaPC discusses the subreddit going dark indefinitely as a part of a coordinated protest against Reddit's decision to raise API prices, which negatively affects third-party applications (3PAs) like Apollo, Sync, and Reddit is Fun.",
+                    "The subreddit will remain closed unless Reddit changes its stance on the API pricing.",
+                    "The post includes a FAQ section addressing concerns about the subreddit\u2019s future, alternatives to Reddit like Tildes, and the broader context of the protest."
+                ]
+            },
+            "comments": [
+                {
+                    "comment": "A comment thanks the mod, u/Ryvaeus, for all the efforts and wishes them luck in future endeavors."
+                },
+                {
+                    "comment": "Another user expresses gratitude for the help in building their PC with input from the subreddit."
+                },
+                {
+                    "comment": "A commenter shares their sadness about the closure but acknowledges the importance of the protest."
+                },
+                {
+                    "comment": "Some users mention they\u2019ve already built their PCs but still feel disappointed by the situation."
+                }
+            ]
+        }
     },
     {
         "title": "12/12 Sale Megathread",
