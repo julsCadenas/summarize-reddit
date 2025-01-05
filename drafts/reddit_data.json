@@ -1394,7 +1394,50 @@
             "How come the 5700x3d on my Lazada app is 10.6k with the 1.2k voucher?",
             "sapat na ba yung 512gb para sa Windows 11 OS?"
         ],
-        "index": 21
+        "index": 21,
+        "summary": {
+            "title": "12/12 Sale Megathread",
+            "selftext": {
+                "description": [
+                    "This megathread compiles deals and tips for the 12/12 sale across platforms like Lazada and Shopee, particularly for Philippine buyers."
+                ],
+                "sections": {
+                    "reminders_and_tips": [
+                        "Voucher Alert: \u20b12,000 voucher every 10 PM with a minimum spend of \u20b110,000.",
+                        "Coins Trick: Use this strategy to maximize discounts using Lazada Coins.",
+                        "Fraud Prevention: Lock credit/debit cards when not in use and avoid suspicious links."
+                    ],
+                    "free_offers": [
+                        "Lazrewards Promo: Use the code 'LAZAFF1212SALE' for rewards."
+                    ],
+                    "guides": [
+                        "Guides on avoiding scams, buying on Amazon, and a 12/12 cheatsheet are available."
+                    ],
+                    "live_updates": [
+                        "Join the dedicated Discord channel for real-time updates."
+                    ],
+                    "highlighted_deals": {
+                        "CPUs": [
+                            "AMD Ryzen processors (e.g., 5600 for \u20b14,237.67 on Lazada)"
+                        ],
+                        "GPUs": [
+                            "Budget and mid-range options like Asus Dual RX 6600 and RTX 4060"
+                        ],
+                        "monitors": [
+                            "IPS displays with high refresh rates, like Koorui 24E3 for \u20b13,765.72"
+                        ],
+                        "other_hardware": [
+                            "RAM, motherboards, microphones, and ergonomic chairs at discounted prices"
+                        ]
+                    }
+                }
+            },
+            "affiliate_disclaimer": "Affiliate links are used for deals. Full details and more deals are listed in the thread.",
+            "links": {
+                "discord_channel": "https://discord.gg/somechannel",
+                "full_thread": "https://www.reddit.com/r/some_subreddit/comments/xxxxxx"
+            }
+        }
     },
     {
         "title": "DO NOT BUY VIEWPLUS MONITORS.",
@@ -1434,7 +1477,75 @@
             "Never buy cheap brands",
             "fuck \ud83d\uddff"
         ],
-        "index": 22
+        "index": 22,
+        "summary": {
+            "title": "Viewplus Monitor Feedback Thread",
+            "selftext": {
+                "description": [
+                    "This thread compiles experiences and advice regarding Viewplus monitors, with most users warning against purchasing them due to poor quality and durability."
+                ],
+                "sections": {
+                    "issues_with_viewplus_monitors": {
+                        "durability_concerns": [
+                            "Multiple users report Viewplus monitors failing within a year, with common issues like dead pixels and black screens."
+                        ],
+                        "build_quality": [
+                            "Many describe the monitors as cheaply made and unreliable for long-term use."
+                        ],
+                        "warranty_problems": [
+                            "Replacement processes are slow, and issues often persist even after repairs."
+                        ]
+                    },
+                    "alternative_recommendations": {
+                        "trusted_brands": [
+                            "AOC",
+                            "Gigabyte",
+                            "MSI",
+                            "LG",
+                            "Samsung",
+                            "BenQ",
+                            "Philips",
+                            "ASUS"
+                        ],
+                        "budget_friendly_option": [
+                            "Xiaomi monitors are highlighted as a better choice for budget-conscious buyers."
+                        ],
+                        "avoidance_of_specific_brands": [
+                            "Gamdias",
+                            "Nvision",
+                            "Spectrepro",
+                            "Similar lesser-known brands"
+                        ]
+                    },
+                    "tips_and_insights": {
+                        "budget_vs_quality": [
+                            "Investing in a slightly more expensive monitor from a reputable brand ensures better performance and longevity."
+                        ],
+                        "retailer_practices": [
+                            "EasyPC is criticized for promoting poor-quality products and questionable build recommendations."
+                        ],
+                        "positive_outliers": [
+                            "A few users report good experiences with Viewplus monitors, but these are seen as exceptions."
+                        ]
+                    }
+                },
+                "notable_comments": {
+                    "quality_control": [
+                        "Some monitors from Viewplus have lasted years, suggesting inconsistent quality control."
+                    ],
+                    "budget_risks": [
+                        "Monitors under \u20b18,000 from unknown brands are widely considered a gamble."
+                    ],
+                    "starting_recommendations": [
+                        "Koorui monitors",
+                        "Second-hand monitors from trusted manufacturers"
+                    ]
+                }
+            },
+            "conclusion": [
+                "This thread serves as a strong caution for buyers to avoid cheap, lesser-known monitor brands and prioritize quality for long-term value."
+            ]
+        }
     },
     {
         "title": "Congrats on reaching 100K!! PHbuildapc!!!",
@@ -1445,7 +1556,23 @@
             "Gotta thank this subreddit for helping me decide and build my dream PC. It's been almost a month since I first built my PC and this sub has been nothing but helpful! Lovelots r/PHbuildaPC \u2764\ufe0f",
             "Uy ! Congrats sa subreddit na to. Ang chill nga dito, tanaw tanaw lang ng mga Questions and Comments kung sino yung mga nakaka luwag luwag HAHAHA."
         ],
-        "index": 23
+        "index": 23,
+        "summary": {
+            "title": "Celebrating 100K Members on r/PHbuildapc!",
+            "selftext": {
+                "milestone": "This milestone marks a significant achievement for the r/PHbuildapc community, showcasing the passion and dedication of Filipino PC enthusiasts. Even in an era where mobile devices dominate, the subreddit proves that PCs remain essential and beloved by many. \ud83c\udf89",
+                "community_highlights": {
+                    "supportive_environment": "Hobbyists and enthusiasts share their time and expertise, helping others build and optimize their PCs. This fosters growth and camaraderie in the community.",
+                    "success_stories": "Many members express gratitude for the guidance they received, enabling them to build their dream PCs.",
+                    "chill_vibes": "The subreddit is appreciated for its laid-back and friendly atmosphere, where even casual onlookers can enjoy reading and learning."
+                },
+                "notable_comments": {
+                    "celebrating_collaboration": "This sub is a perfect example of what makes Reddit great. Hobbyists/enthusiasts helping others for free for the love of the hobby. Shoutout to all the kings and queens here!",
+                    "personal_thanks": "Gotta thank this subreddit for helping me decide and build my dream PC. It's been almost a month since I first built my PC, and this sub has been nothing but helpful! Lovelots r/PHbuildaPC \u2764\ufe0f",
+                    "lighthearted_fun": "Uy! Congrats sa subreddit na to. Ang chill nga dito. Tanaw tanaw lang ng mga questions and comments kung sino yung mga nakaka luwag luwag HAHAHA."
+                }
+            }
+        }
     },
     {
         "title": "Black Friday and Cyber Monday next week! Anong forwarder best gamitin?",
@@ -1469,7 +1596,52 @@
             "ff, interested with this one too!",
             "Pwede naman derecho na from Amazon to ph. Make sure lang na less than 10k para wala tax."
         ],
-        "index": 24
+        "index": 24,
+        "summary": {
+            "title": "Black Friday and Cyber Monday: Best Forwarders for PC Parts?",
+            "selftext": {
+                "overview": "The upcoming Black Friday and Cyber Monday sales present a great opportunity to buy PC parts from Amazon, Newegg, and other retailers. If you're planning to ship items to the Philippines, here's a summary of the best forwarders based on community experiences.",
+                "popular_forwarders": {
+                    "Shipping Cart": {
+                        "pros": "Consistent service across countries like Japan, UK, and the US.",
+                        "cons": "Some items may require 'special handling,' which can increase air cargo costs."
+                    },
+                    "Buyandship": {
+                        "pricing": "PHP 620 for the first pound, PHP 520 for additional pounds.",
+                        "pros": "No import taxes, helpful FB group support.",
+                        "user_feedback": "Good for GPUs, RAM, SSDs, and other PC components."
+                    },
+                    "Johnny Air": {
+                        "experience": "Shipped an eGPU worth PHP 23k for $20 shipping, with no taxes.",
+                        "website": "Check their site for more details."
+                    },
+                    "Kango Express": {
+                        "pros": "Affordable consolidation shipping (e.g., PHP 1.7k for a 2kg item).",
+                        "delivery_time": "Typically 9 days to 3 weeks."
+                    },
+                    "MyShoppingBox": {
+                        "pros": "Recommended for items above PHP 10k."
+                    }
+                },
+                "tips_for_black_friday_purchases": {
+                    "direct_amazon_shipping": "Amazon US ships directly to the Philippines for free on items below PHP 10k, avoiding customs fees.",
+                    "customs_and_tax_considerations": "Items above PHP 10k may incur customs duties. Factor this into your purchase decision to ensure the deal remains worth it.",
+                    "shipping_costs": "High shipping fees might offset discounts on heavy or large items like GPUs or PSUs."
+                },
+                "community_experiences": {
+                    "successful_purchases": {
+                        "items": "RAM, SSD, CPU, and even GPUs have been successfully shipped via forwarders.",
+                        "examples": "An RX 6750 XT and a 7800 XT with reasonable shipping costs."
+                    },
+                    "cautionary_tales": "Some users reported high shipping fees negating the savings on overseas purchases."
+                },
+                "questions_to_ask_before_buying": [
+                    "Will the sale price offset customs and shipping fees? Example: A 40\u201d ultrawide monitor priced at PHP 16-17k overseas versus local pricing.",
+                    "Is direct shipping from Amazon an option? For lightweight or low-value items, this might be more cost-effective."
+                ],
+                "call_for_gpu_deals": "Many are keeping an eye on Black Friday for solid GPU deals. If you spot any, share your findings!"
+            }
+        }
     },
     {
         "title": "40k budget for daughter's first pc",
@@ -1491,7 +1663,60 @@
             "Go for i5 with a decent gpu. MB kahit mid tier lang basta either Asus or MSI. CPU case kahit mura lang basta looks good aesthetically. Nvme OS then SSD for files. Active PFC PSU.\n\nYung minention ko above, they're good in longevity. I have 2 PCs. Yung isa ko is quite old na but it can still run like an i5 10th gen. I have been using it for more than 10 years already but still run like it's new. If you want longevity, go for intel.",
             "For those games you could get mentioned 5600G, get B550 motherboard, 16-32GB 3600mhz ram, high quality PSU, good airflow case, add some Fans and beefy CPU cooler so you could slightly overclock 5600G and you will have the ability to safely upgrade to something like Ryzen 7 5800X3D in the future."
         ],
-        "index": 25
+        "index": 25,
+        "summary": {
+            "title": "40k Budget for Daughter's First PC: Recommendations and Build Suggestions",
+            "selftext": {
+                "overview": "A parent is seeking advice on building a PC for their daughter as a reward for her honor roll achievement. With a PHP 40k budget and plans to buy from Dynaquest, the parent is looking for a build that can handle games like Roblox, Minecraft, Terraria, and Valorant, as well as Photoshop for school. Here\u2019s a summary of the best build suggestions based on community feedback.",
+                "popular_pc_builds": [
+                    {
+                        "build_name": "Build 1: Ryzen 5 5600 & RX 6600",
+                        "components": {
+                            "CPU": "Ryzen 5 5600 (PHP 7,730)",
+                            "Motherboard": "ASRock B550M Pro4 (PHP 5,780)",
+                            "RAM": "G.Skill Ripjaws V 16GB DDR4 3600MHz (PHP 2,550)",
+                            "GPU": "Sapphire Pulse RX 6600 Gaming 8GB (PHP 13,075)",
+                            "PSU": "Seasonic B12 BC-650 Bronze 80+ (PHP 3,465)",
+                            "SSD": "Adata XPG SX8200 Pro 1TB (PHP 3,540)",
+                            "Case": "Tecware Nexus Air Mesh (PHP 2,520)"
+                        },
+                        "total": "PHP 40,110",
+                        "pros": "Handles AAA games at 1080p high to max settings.",
+                        "cons": "May exceed PHP 40k due to stock availability."
+                    },
+                    {
+                        "build_name": "Build 2: Budget-Friendly Alternative",
+                        "components": {
+                            "CPU": "Ryzen 5 3600 (PHP 3k+ for secondhand)",
+                            "Motherboard": "B450 (PHP 4k+)",
+                            "RAM": "16GB DDR4 (PHP 4-6k)",
+                            "GPU": "RX 580 8GB (PHP 5k-8k)",
+                            "PSU": "650W True rated (PHP 3k)",
+                            "Storage": "1TB SSD (PHP 3k), secondary storage 1-2TB (PHP 3-6k)",
+                            "Monitor": "24-inch IPS 1080p (PHP 4k)"
+                        },
+                        "total": "Approx. PHP 30-35k",
+                        "pros": "Cost-effective and can still handle the games and Photoshop.",
+                        "cons": "Secondhand parts may have limited lifespan."
+                    }
+                ],
+                "tips_for_buying_pc_parts": {
+                    "monitor_choice": "Avoid using a large 32-inch TV as a monitor for better eye comfort. A good 1080p 24-27 inch IPS monitor is ideal.",
+                    "secondhand_parts": "You can save money by opting for secondhand CPUs or GPUs like the Ryzen 5 3600 or RX 580.",
+                    "storage": "An SSD for the OS is essential for faster load times, and additional HDD storage is good for files and games.",
+                    "future_proofing": "If possible, opt for a motherboard that supports future CPU upgrades like the B550 chipset."
+                },
+                "community_feedback": {
+                    "successful_builds": "RAM, SSD, CPU, and GPUs have been successfully shipped via various local stores and suppliers.",
+                    "concerns": "Some users noted that shipping or secondhand part costs could reduce overall savings, so check for warranty and condition before purchasing."
+                },
+                "questions_to_consider": [
+                    "Is the PHP 40k budget enough for a long-lasting build that can handle both schoolwork and gaming?",
+                    "Would it be better to go for a more budget-friendly build under PHP 30k to leave room for peripherals?"
+                ],
+                "conclusion": "Best of luck with your daughter's first PC build! \ud83d\udcbb\ud83c\udf89"
+            }
+        }
     },
     {
         "title": "My experience with GeForce Now in the Philippines",
@@ -1509,7 +1734,47 @@
             "Is there any other way for paying subscription? I font have PayPal eh",
             "Plans are 50% off right now. Would be a good time to join/experience GeForce NOW"
         ],
-        "index": 26
+        "index": 26,
+        "summary": {
+            "title": "My Experience with GeForce Now in the Philippines",
+            "selftext": {
+                "overview": "I wanted to share my experience with GeForce Now in the Philippines. In the past few months, I\u2019ve been considering building a new PC for gaming but was disappointed to see how high graphics card prices were. Since they are unlikely to drop anytime soon, I decided to explore cloud gaming as an alternative. The downside? Most major cloud gaming providers are based in the US or Europe, which results in high latency when gaming in the Philippines.",
+                "geforce_now_experience": {
+                    "provider": "GameHubPlus SG",
+                    "price": "15 SGD or 550 PHP/month for the first 3 months, then 20 SGD or 730 PHP/month",
+                    "internet_provider": "PLDT Fibr (80mbps)",
+                    "latency": "48-52ms (North Caloocan Area)",
+                    "client_machine": "Old Thinkpad T60",
+                    "monitor": "ViewPlus 24-inch 75Hz",
+                    "gaming_experience": "Locked at 1080p, 60fps",
+                    "feedback": "I\u2019ve been using it for two months now, and I\u2019m really happy with the service's latency, reliability, and speed."
+                },
+                "community_feedback": [
+                    {
+                        "user_experience": "One user shared that they subscribed to GeForce Now for $9.99/month and were impressed with the performance. They mentioned a few downsides, such as no controller support (although controllers work when connected before starting GeForce Now) and occasional game setting resets. However, the experience is generally very reliable, and the low latency and lack of wait times make it a great option for casual gamers."
+                    },
+                    {
+                        "user_experience": "Another user with Converge\u2019s 35mbps internet asked if others had tried GeForce Now with similar speeds, and the general consensus was positive, as long as there\u2019s a strong, consistent connection."
+                    },
+                    {
+                        "user_experience": "One comment shared that, while the service worked well for short bursts of gaming, the undersea cable issues have impacted performance in some regions lately."
+                    },
+                    {
+                        "user_experience": "A few users reported positive experiences playing on non-gaming laptops, noting how cloud gaming allowed them to enjoy games on high settings without needing a powerful machine."
+                    },
+                    {
+                        "user_experience": "One user who tried the service on a Samsung Fold 3 with an Xbox controller found that latency was around 40ms with a 500mbps Globe Fiber connection."
+                    }
+                ],
+                "questions_and_additional_info": {
+                    "game_purchases": "You need to already own the game (except free-to-play ones) to play them on GeForce Now.",
+                    "device_compatibility": "Some users asked about using GeForce Now on iPads or other devices.",
+                    "payment_options": "Users inquired about alternative payment methods if they don\u2019t have PayPal."
+                },
+                "final_thoughts": "If you\u2019re considering cloud gaming and want to avoid high upfront costs for a gaming PC, GeForce Now could be a great solution. It\u2019s also an affordable way to enjoy PC games if you already have a capable device and a strong internet connection.",
+                "closing": "Good luck with your gaming! \ud83c\udfae"
+            }
+        }
     },
     {
         "title": "Anong \"go-to\" shop nyo sa pagbili ng pc parts?",
@@ -1537,7 +1802,41 @@
             "Personally, FB marketplace haha.",
             "Pag system unit, suggest ko collinx computer sa lazada. tip ko rito humingi kayo ng additional freebies, very generous sila."
         ],
-        "index": 27
+        "index": 27,
+        "summary": {
+            "title": "Anong 'go-to' shop nyo sa pagbili ng pc parts?",
+            "post": {
+                "overview": "The user plans to build a new system unit and is looking for shops that offer reasonably priced PC parts. They mention Bermorzone and DynaquestPC as options and ask for recommendations from others."
+            },
+            "comments": [
+                {
+                    "recommendations": [
+                        "ITWorld on Shopee/Lazada",
+                        "Hardware Sugar",
+                        "Digiserv for storage"
+                    ]
+                },
+                {
+                    "suggestion": "Create a spreadsheet with the parts and compare prices from various shops to get the best deal, including stores like PC Hub, Dynaquest, Techmovers, and others."
+                },
+                {
+                    "shop_recommendations": {
+                        "Dynaquest": "For most parts and accessories",
+                        "PC Options": "For warranty and PC building services",
+                        "Hardware Sugar": "For customer service and custom orders",
+                        "EasyPC": "For great customer service with SRP prices",
+                        "PCHub": "For a wide variety of parts and niche items",
+                        "Facebook Marketplace": "For second-hand parts (with caution)",
+                        "Ayos Computer": "For assemblies and custom builds",
+                        "Softbox Solutions": "For assemblies and custom builds",
+                        "PC Site": "For assemblies and custom builds"
+                    }
+                },
+                {
+                    "positive_experiences": "Some users shared positive experiences with Bermorzone, especially online payments, and others mentioned deals from Lazada or Shopee monthly sales."
+                }
+            ]
+        }
     },
     {
         "title": "Laptop suggestions (4 units) budget 700k",
@@ -1548,7 +1847,24 @@
             "DOH? stop phising from us  \n\n\n/s",
             "Meta"
         ],
-        "index": 28
+        "index": 28,
+        "summary": {
+            "title": "Laptop suggestions (4 units) budget 700k",
+            "post": {
+                "overview": "The user is looking for high-end, 2-in-1 laptops within a budget of 700k."
+            },
+            "comments": [
+                {
+                    "suggestion": "Call the Department of Health for ideas on where they got their units."
+                },
+                {
+                    "sarcasm": "Some sarcastic comments questioning the legitimacy of the purchase, humorously mentioning the possibility of buying low-end laptops (like Lenovo Ideapad 3)."
+                },
+                {
+                    "inventory_comment": "A comment about helping take inventory of technology assets at an alma mater and wondering why similar organizations don\u2019t do the same."
+                }
+            ]
+        }
     },
     {
         "title": "best mobo under 6k ryzen 5600",
@@ -1559,7 +1875,24 @@
             "ASRock B550M Pro 4, AM4, mATX, 4*ddr4\t5,899.00",
             "Kahit B450 pwede sa Ryzen 5600 pero para sa akin kahit hindi mo need ng wifi, malaking tulong ang bluetooth sa motherboard. \n\nCheck mo: [Asus or MSI B550M WIFI](https://s.shopee.ph/7fIpxwIMcG)"
         ],
-        "index": 29
+        "index": 29,
+        "summary": {
+            "title": "Best mobo under 6k Ryzen 5600",
+            "post": {
+                "overview": "The user is looking for the best value motherboard for a Ryzen 5600 processor, with a budget under 6k, and doesn't need wireless connectivity."
+            },
+            "comments": [
+                {
+                    "recommendation": "A link to a compatible motherboard with DDR4 support and Ryzen 5600 compatibility, suggesting it might be a good option."
+                },
+                {
+                    "suggestion": "ASRock B550M Pro 4 motherboard, priced at 5,899.00 PHP."
+                },
+                {
+                    "advice": "Consider a B450 motherboard for Ryzen 5600 and note the value of Bluetooth even if wireless connectivity isn\u2019t needed, with a link to a B550M WIFI motherboard."
+                }
+            ]
+        }
     },
     {
         "title": "11/11 Cheat Sheet Update as of 10/11 2pm",
@@ -1573,7 +1906,47 @@
             "Meron po ba kayong info for a 3070 na below 25k?",
             "Is it just me or the shopee mega discount voucher has become 20% 1k cap rather than the 25% 1k cap?"
         ],
-        "index": 30
+        "index": 30,
+        "summary": {
+            "title": "11/11 Deals Cheat Sheet - Lazada & Amazon Offers",
+            "post": {
+                "overview": "The post provides a cheat sheet with updated deals and offers for 11/11, particularly on Lazada and Amazon. Key highlights include Lazada and Amazon deals, voucher instructions, and a link to a Google Sheets document with more details.",
+                "details": {
+                    "lazada_deals": {
+                        "special_offers": [
+                            "0% Spaylater voucher",
+                            "Ways to maximize coin usage",
+                            "Free LazRewards for Lazada members (Nov 8-13)"
+                        ],
+                        "additional_vouchers": [
+                            "LAZADA300",
+                            "LAZADA500"
+                        ],
+                        "product_deals": [
+                            "CPUs",
+                            "GPUs",
+                            "SSDs",
+                            "RAM",
+                            "Accessories"
+                        ]
+                    },
+                    "amazon_deals": {
+                        "discounted_components": [
+                            "RAM",
+                            "SSDs",
+                            "Monitors"
+                        ],
+                        "product_categories": [
+                            "Budget-friendly gaming components",
+                            "Productivity components"
+                        ]
+                    },
+                    "voucher_instructions": "Details on using specific Lazada and Amazon vouchers for better discounts.",
+                    "link_to_google_sheet": "A link to the updated Google Sheets document containing more details on these offers."
+                },
+                "user_input_encouraged": "The post invites users to share additional deals that should be included."
+            }
+        }
     },
     {
         "title": "Intel Arc Battlemage B580 Reviews are out!",
