@@ -4110,7 +4110,38 @@
             "Update as of August 28, 2021:\n\n&#x200B;\n\nAnother price down!\n\nRyzen 5 5600G: PHP ~~15,999~~ **14,600!**\n\nRyzen 7 5700G: PHP ~~20,999~~ **20,400!**\n\n\\---------------\n\nHey everyone, Edward here!\n\nI am delighted to share to the amazing community here about the deals we can offer for the newly released Zen 3 AMD APUs. One of Worthy Upgrades official partner suppliers, TechMovers, was really cool to give Worthy Upgrades' clients exclusive prices.\n\nFeel free to drop a DM on our [Facebook](https://bit.ly/WorthyUpgrades-Facebook) page for inquiries. Or just leave a reply in this thread, and I'll get back to you as soon as I can. I'm usually active between 3PM-3AM, weekdays.\n\nAdditional Notes:\n\n* These need to be bought along with a pre-ordered built-to-order system unit. For DIY builders that just need the APU itself, I believe only regular prices apply, slide by their DMs on [their Facebook page](https://bit.ly/TechMovers-Facebook) for inquiries and tell them we sent you! :)\n* Lead times are usually within one week (as fast as four days) when all parts are sourced locally/no items are sourced from TechMovers. Usually 10-14 days when there are parts sourced from them, even for the Ryzen 5000 series APUs!\n* Services are currently available within Metro Manila only. Operations in Pampanga are currently paused since my PC buddy that handles the operations there got accepted for a full time work and I'm now waiting for someone to take his place."
         ],
         "index": 81,
-        "summary": null
+        "summary": {
+            "post": {
+              "topic": "Worthy Upgrades Pre-order Promos for Ryzen 5000G APUs",
+              "details": {
+                "objective": "Announce the pre-order promos for the newly released Ryzen 5000G APUs (Ryzen 5600G & 5700G) from Worthy Upgrades.",
+                "notes": {
+                  "availability": "Metro Manila only",
+                  "contact": {
+                    "facebook": "https://bit.ly/WorthyUpgrades-Facebook",
+                    "techmovers": "https://bit.ly/TechMovers-Facebook"
+                  }
+                },
+                "promo_prices": {
+                  "ryzen_5600G": {
+                    "original_price": "PHP 15,999",
+                    "promo_price": "PHP 14,600"
+                  },
+                  "ryzen_5700G": {
+                    "original_price": "PHP 20,999",
+                    "promo_price": "PHP 20,400"
+                  }
+                },
+                "additional_notes": [
+                  "APUs must be bought along with a pre-ordered built-to-order system unit.",
+                  "For DIY builders, regular prices apply for the APUs.",
+                  "Lead times are usually within one week (as fast as four days) for locally sourced parts.",
+                  "Lead times are usually 10-14 days for parts sourced from TechMovers.",
+                  "Services are currently available within Metro Manila only."
+                ]
+              }
+            }
+          }
     },
     {
         "title": "You can build a new PC for 5.9K this 11.11.",
@@ -4127,7 +4158,41 @@
             "Pede po ito pang laro?"
         ],
         "index": 82,
-        "summary": null
+        "summary": {
+            "post": {
+              "topic": "Budget PC Build for 5.9K this 11.11",
+              "details": {
+                "objective": "Share a budget PC build for 5.9K available this 11.11 on Lazada.",
+                "components": {
+                  "processor": "Genmachine 3550H",
+                  "price": "4300PHP",
+                  "discounts": [
+                    "5800- 20% off voucher- 500 for credit card"
+                  ]
+                },
+                "additional_components": [
+                  {
+                    "component": "RAM",
+                    "details": "2x 4GB 2666 DDR4 SODIMM or 1x 8GB 3200Mhz",
+                    "price": "1k"
+                  },
+                  {
+                    "component": "NVME SSD",
+                    "details": "256 GB Gigabyte",
+                    "price": "1.1k"
+                  }
+                ],
+                "total_price": "5900 PHP",
+                "notes": [
+                  "Prices are estimates and not final.",
+                  "Lazada only; no Shopee mini PCs with these prices.",
+                  "This build is suitable for office work and light tasks.",
+                  "The build is a better deal compared to 2nd hand 4th gen i3 or i5 CPUs."
+                ],
+                "use_case": "The OP plans to use this build as a NAS server and an always-on backup PC."
+              }
+            }
+          }
     },
     {
         "title": "7800 XT Release sa Philippines, 43000 pesos ang pinakamura",
@@ -4152,7 +4217,31 @@
             "Already available na sa india which 32-35k sa price natin price may varied  but we are in the same group in those price chart so there is no justifiable reason for it to be that high 40k is stupid. And correct ka dyan if available na ung counter part nya na which is the 4060ti in terms of pricing pinapasa lang nila ung pricing nila sa 6800xt kasi may stock pa sila which they procured on a higher price so pag tumagal pa yan at bumaba yan d maiiwaaang ibaba din ung 6800xt at yan ing iniiiwasan nila mangyare.\n\n6800xr simply got staled in the shelves with the arrival of 7800xt yan lang talaga ung dahilan bakit 40k ang price nyan.\n\nAt dun sa nag sasabi ng freight shipping you think hinde yan ang ginagawa ng mga re seller sa atin.. you are taking the risk kasi gusto mo maging early adapter which is always bad pag dating sa tech maliban na lang kung pinsan ka ni villar.\n\nBest way is to wait sale yan on holiday seasons but in a right pricing\n \nAlso pag nakakuha ka update ka naman waiting din ako."
         ],
         "index": 83,
-        "summary": null
+        "summary": {
+            "post": {
+              "topic": "AMD Radeon RX 7800 XT Release in the Philippines",
+              "details": {
+                "objective": "Discuss the release of the AMD Radeon RX 7800 XT in the Philippines.",
+                "pricing": {
+                  "bermor_techzone": {
+                    "listing": "Gigabyte Radeon RX 7800 XT Gaming OC 16GB GDDR6 256-bit Graphics Card",
+                    "price": "43,000 PHP"
+                  },
+                  "comparison": {
+                    "nvidia_4060_ti": {
+                      "listing": "Palit GeForce RTX 4060 Ti Jetstream OC 16GB GDDR6 Graphics Card",
+                      "price": "31,000 PHP"
+                    }
+                  }
+                },
+                "notes": [
+                  "The 7800 XT is priced higher than the 4060 Ti.",
+                  "The 7800 XT is expected to be priced around 30k PHP ($600).",
+                  "The 7800 XT is available in India for 32-35k PHP."
+                ]
+              }
+            }
+          }
     },
     {
         "title": "Took our chances on a mining gpu and lost the lottery.",
@@ -4165,14 +4254,44 @@
             "An update 7 months later, My friend also upgraded from r5 3600 to r7 5800x3d. He is still using the same powersupply with my Palit 3070 jetstream. Still no issues with the \"generic power supply\".\n\nPS: The FB seller is now using his wife's account to sell his GPUs."
         ],
         "index": 84,
-        "summary": null
+        "summary":{
+            "post": {
+              "topic": "Experience Buying a Second-Hand Mining GPU",
+              "details": {
+                "summary": "User shares their cautionary tale about purchasing a second-hand Gigabyte RTX 3070 GPU, which failed after four gaming sessions due to a burnt component, likely related to the VRAM.",
+                "incident": {
+                  "purchased_gpu": "Gigabyte RTX 3070 (used for mining)",
+                  "failure_details": "Emitted a burning smell and caused the PC to shut down after four gaming sessions. Investigation revealed a burnt component on the GPU.",
+                  "seller_interaction": "Contacted seller with limited warranty, but no resolution was reached.",
+                  "testing_results": {
+                    "psu_status": "Ruled out as the issue; friend's PC functioned correctly with another GPU."
+                  },
+                  "outcome": "Damaged GPU is unusable; user sold their working Palit RTX 3070 and purchased a second-hand RTX 3080."
+                },
+                "key_takeaways": [
+                  "Used GPUs, especially those previously used for mining, carry significant risks.",
+                  "Buying new hardware is safer for peace of mind.",
+                  "The seller's claim that a 'generic' PSU caused the problem was unfounded, as the PSU worked with other GPUs."
+                ],
+                "conclusion": {
+                  "current_status": "The user's new RTX 3080 is functioning well.",
+                  "reminder": "Purchasing second-hand hardware, especially mining GPUs, involves uncertainties and risks."
+                }
+              }
+            }
+          }
+          
     },
     {
         "title": "Welcome to r/PHbuildapc!",
         "selftext": "Hello there,\n\nIf you're looking for advice, information, or inspiration on building your own PC in the Philippines, this is it! r/PHbuildapc is a community dedicated to custom PC assembly specifically in the Philippines. Anyone is welcome to seek the input of our helpers as they piece together their desktop, or decide on a laptop.\n\nSome guidelines to get started:\n\n* Before you begin participating in the subreddit, we ask that you take a look at our [rules](https://www.reddit.com/r/PHbuildapc/wiki/rules). \n* We have weekly megathreads for simple questions like: \"Is this RAM compatible with this mobo?\", \"Which sub-\u20b115k GPU should I get?\", or \"What's a good ergo chair?\" Please ask such questions there instead of on the subreddit frontpage, to keep clutter down to a minimum.\n* Many subreddit guidelines can be found in our [wiki](https://www.reddit.com/r/PHbuildapc/wiki/index).\n* [PinoyPCBuilder.com](https://pinoypcbuilder.com/) is a good resource to get started on making a partlist for your build. I've already requested the site's creators to add an \"export in markdown\" feature that will make it easier to share on Reddit, but until then, lists from this site will be accepted in post bodies.\n* We have a [Discord server](https://discord.com/invite/jzvqbvaptc), feel free to join and chat about a wider variety of topics than what this subreddit allows.\n\nIf you're going to post a build help topic on the subreddit frontpage, keep in mind that **getting good answers requires asking a good question**.  The best way to ask a question is to cover the following explicitly.  You don't have to write a novel, but try to provide sufficient context for people to help you.\n\n1. What are your concerns?  Why are you asking a question here?  There's no bad reasons, but tell people what YOUR reason is and you're more likely to get an answer that helps you.\n2. What are you trying to DO with your computer?  There is no \"best\" computer, only \"the best at...[something]\"  Common answers include \"playing games\" or \"processing data\" or \"work from home\" but don't assume that your use case is broadly understood.  What kind of games?  How much data?  What applications do you use for work? Etc.  If you're doing something graphically intense, **Include the details of your intended display**, specifically the resolution and target framerates.\n3. What is your budget?  Every build has a budget.  Maybe you're a baller that thinks \"sky's the limit\" but you will probably be surprised just how high that sky is.  Telling people up front what you are willing to spend will allow people to do more effective tradespace management (save a bit here and spend more there).  Alternatively, they can help give you realistic expectations.\n4. What environmental constraints or priorities do you have?  Want to keep a good upgrade path for the future?  That's important.  Needs to last 10 years?  Don't have good ventilation?  Need to be quiet in a dorm room?  Need to mount the PC somewhere?  Got low power?  Concerned about data integrity?  Say it up front as those considerations can radically change recommendations.\n5. What else have you considered and written off and why?  Other people don't know what you've been thinking, or why those solutions aren't right for you, so tell them. Common ones include \"I already have some pieces\" or \"application X has problems with Y configuration\" or \"I just want to do X and not Y.\"  (There's no shame in having preferences)\n\nThis and many other frequently asked questions are covered in our [FAQ](https://www.reddit.com/r/PHbuildapc/wiki/index/faq) wiki entry.\n\nAside from all that, I ask for your understanding if in the early days the moderation for the sub is all over the place; it will take a while to get a feel for the community's collective personality, and we will adjust on the fly. Speaking of mods, if you'd like to be one, we're taking volunteers. These are the qualifications:\n\n>The basic qualifications are a willingness to learn the reddit mod tools (really easy once you practice with it for like 1 hour), diligence in checking/evaluating posts that need attention, and using Reddit pretty often (10-20 mins every 6 hours, preferred). Mod duties, of communities our size anyway, adds about 5 minutes to your Reddit use if on desktop. On mobile it takes longer because there are no mobile apps with decent mod tools, I've found.\n>\n>English and Tagalog proficiency of course, because that's what people in our subreddit post in.\n>\n>Being able to keep a cool head in case someone disputes your moderation decision. We've had a couple users really complain so hard about some post removals or temporary bans. Usually I handle these because I don't want rules that I decided on stressing out the people who volunteer to help mod.\n>\n>And of course, being able to come to your decisions as a mod autonomously, impartially, and without exception. If you see something that clearly is against subreddit rules, or Reddit rules as a whole, you should be able to reprimand the offenders appropriately.\n\nIf you're eager to give it a shot, [send us a modmail](https://www.reddit.com/message/compose?to=/r/PHbuildapc) with a short intro of yourself to get started and we'll take it from there.\n\nEnough talk, have at thee!\n\nYour mod, tech support, and best friend,  \nJP",
         "comments": [],
         "index": 85,
-        "summary": null
+        "summary": {
+            "title": "Welcome to r/PHbuildapc!",
+            "selftext": "Introduction to the r/PHbuildapc subreddit, a community for custom PC assembly in the Philippines. The post includes guidelines for participation, links to resources, and advice on how to ask questions effectively. It also invites members to join the Discord server and provides information on becoming a moderator.",
+            "comments": []
+        }
     },
     {
         "title": "Recommend some good Monitors pls",
@@ -4198,7 +4317,64 @@
             "> Trusted\n\n> Nvision\n\n> Expensive\n\nLol. Just get an AOC 24G2, got mine for 7500."
         ],
         "index": 86,
-        "summary": null
+        "summary": {
+            "post": {
+              "topic": "Searching for a Budget-Friendly Monitor with 150Hz+ Refresh Rate",
+              "details": {
+                "summary": "User shares their experience searching for a monitor with at least 150Hz refresh rate and standard resolution within a budget of 8k PHP, while expressing concerns about unreliable online brands.",
+                "monitor_requirements": {
+                  "refresh_rate": "at least 150Hz",
+                  "resolution": "standard",
+                  "budget": "8k PHP"
+                },
+                "concerns": {
+                  "online_brands": "Hesitant to buy from unreliable online brands.",
+                  "trusted_brands": "Trusted brands like Invision were too expensive."
+                },
+                "suggestions": [
+                  {
+                    "model": "Koorui 24E3",
+                    "features": "165Hz, IPS Panel",
+                    "price": "around 6k PHP",
+                    "pros": "Budget-friendly",
+                    "cons": "Color accuracy may be compromised"
+                  },
+                  {
+                    "model": "Gigabyte G24F2",
+                    "features": "Height-adjustable stand, USB hub",
+                    "pros": "Higher-end features"
+                  },
+                  {
+                    "model": "AOC G24SP",
+                    "features": "Height-adjustable stand, USB hub",
+                    "pros": "Higher-end features"
+                  },
+                  {
+                    "model": "Acer Nitro VG240Y M3",
+                    "features": "180Hz",
+                    "pros": "Good refresh rate"
+                  },
+                  {
+                    "model": "Xitrix",
+                    "features": "27-inch, QHD, 180Hz",
+                    "pros": "Higher refresh rate, larger display"
+                  }
+                ],
+                "conclusion": {
+                  "advice": "Check for deals, especially during sales like Lazada promotions.",
+                  "suggestion": "Stretching the budget may be worth it for better quality, particularly for 1440p resolution and higher refresh rates.",
+                  "best_budget_options": ["Koorui", "AOC", "Acer"]
+                },
+                "key_takeaways": [
+                  "Budget-friendly monitors like Koorui 24E3 offer great value, but color accuracy may be compromised.",
+                  "It’s best to check deals, especially during sales events like Lazada promotions.",
+                  "Stretching the budget may be worth it for better quality, especially for 1440p and higher refresh rates."
+                ],
+                "conclusion_status": "User is exploring different options and remains cautious about unreliable brands."
+              }
+            }
+          }
+          
     },
     {
         "title": "Got a 100k pc build for only 90k",
@@ -4221,7 +4397,73 @@
             "Ganito din ginawa ko pero waiting pa sa items. Could've saved 1k more kung sa Shopee din ako bumili GPU kaso nalito na sa AyosComputer ako napabili hahaha. Most of my parts sa ITWorld din, pero SSD + RAM sa Amazon then CPU+GPU sa AyosComputer. Sana walang problem sa parts pagka receive ko.  \n\n\nSulit talaga sa Shopee."
         ],
         "index": 87,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "Got a 100k PC build for only 90k",
+              "summary": "User shares how they saved 12k on a high-performance PC build by using Shopee's 1.5k off vouchers multiple times, bringing the total to 89,325 pesos (originally estimated at 101k without discounts).",
+              "total_price": "89,325 PHP",
+              "discounts": {
+                "savings": "12,000 PHP",
+                "method": "Shopee 1.5k off vouchers used multiple times"
+              },
+              "items_purchased": [
+                {
+                  "category": "CPU",
+                  "model": "AMD Ryzen 5 7500F",
+                  "price": "9,499 PHP"
+                },
+                {
+                  "category": "Cooler",
+                  "model": "Deepcool AK400 Digital",
+                  "price": "1,567 PHP"
+                },
+                {
+                  "category": "Motherboard",
+                  "model": "MSI PRO B650M-A WIFI",
+                  "price": "9,899 PHP"
+                },
+                {
+                  "category": "RAM",
+                  "model": "G Skill Trident Z5 Neo RGB 32GB (2x16) 6000MHz CL36",
+                  "price": "5,989 PHP"
+                },
+                {
+                  "category": "GPU",
+                  "model": "Sapphire Nitro+ 7800XT",
+                  "price": "34,395 PHP"
+                },
+                {
+                  "category": "Case",
+                  "model": "Montech Sky Two",
+                  "price": "3,429 PHP"
+                },
+                {
+                  "category": "PSU",
+                  "model": "Cooler Master MWE Gold 750W",
+                  "price": "4,699 PHP"
+                },
+                {
+                  "category": "Monitor",
+                  "model": "Gigabyte M27Q Rev 2.",
+                  "price": "17,099 PHP"
+                },
+                {
+                  "category": "Storage",
+                  "model": "Samsung 970 Evo Plus 1TB",
+                  "price": "2,799 PHP"
+                }
+              ],
+              "comments_highlights": {
+                "discussions": [
+                  "Shipping, product availability, and waiting for parts",
+                  "User experiences of saving money with Shopee's vouchers"
+                ],
+                "inquiries": [
+                  "Questions about specific items and the user's build experience"
+                ]
+              }
+            }
+          }          
     },
     {
         "title": "MY FIRST BUILD IS HERE! Thank you so much PHbuildpc people \ud83d\ude4c\ud83c\udffb",
@@ -4235,7 +4477,24 @@
             "Noob here. Pano malaman ang specs ng computer?"
         ],
         "index": 88,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "MY FIRST BUILD IS HERE! Thank you so much PHbuildpc people \ud83d\ude4c\ud83c\udffb",
+              "summary": "User expresses gratitude to the r/PHbuildapc community for helping them with their first PC build. They share their setup and thank the members for their guidance and support.",
+              "setup_image": "https://ibb.co/SxyxJvh",
+              "comments_highlights": {
+                "congratulations": [
+                  "Positive comments congratulating the user on their first PC build"
+                ],
+                "welcome": [
+                  "Welcoming the user to the PCMasterRace community"
+                ],
+                "questions": [
+                  "Inquiries about the user's PC specifications and build experience"
+                ]
+              }
+            }
+          }
     },
     {
         "title": "Finally upgrading my PC after 13 years",
@@ -4250,7 +4509,58 @@
             "I have the same motherboard, paired with a 5700x. You will likely have to flash the bios (easy w it\u2019s built in bios flash). And I had problems getting the wifi and Bluetooth to work. Fixed the wifi with drivers but gave up on the bluetooth"
         ],
         "index": 89,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "Finally upgrading my PC after 13 years",
+              "summary": "User shares their excitement about upgrading their 13-year-old PC, having used an i5 4460 after their previous PC broke in 2022. They recently purchased new components totaling Php 30,877, with plans to buy a 2TB M.2 SSD next month.",
+              "total_price": "30,877 PHP",
+              "items_purchased": [
+                {
+                  "category": "CPU",
+                  "model": "Ryzen 5 5600"
+                },
+                {
+                  "category": "Motherboard",
+                  "model": "MSI B550 VDH Pro WiFi"
+                },
+                {
+                  "category": "RAM",
+                  "model": "2x8GB 3200 MHz"
+                },
+                {
+                  "category": "GPU",
+                  "model": "Used 5600 XT Pulse",
+                  "price": "7,500 PHP"
+                },
+                {
+                  "category": "PSU",
+                  "model": "750W Cooler Master MWE",
+                  "price": "3,900 PHP"
+                },
+                {
+                  "category": "Case",
+                  "price": "2,500 PHP"
+                }
+              ],
+              "future_plans": {
+                "item": "2TB M.2 SSD",
+                "estimated_purchase_date": "Next month"
+              },
+              "comments_highlights": {
+                "congratulations_and_advice": [
+                  "Compliments and advice from others with similar PC builds."
+                ],
+                "bios_and_tuning_tips": [
+                  "User shares experience flashing the BIOS and tuning CPU temperatures.",
+                  "Users exchange tips on handling BIOS updates, overheating with stock cooler, and using MSI motherboards."
+                ],
+                "budget_tips": [
+                  "Several comments mention using Amazon for better prices on NVMe drives."
+                ]
+              }
+            }
+          }
+          
     },
     {
         "title": "Napakamura at convenient talaga sa Amazon mag order ng parts",
@@ -4276,7 +4586,33 @@
             "Issue ko lang pag overseas ay ung after sales eh gaya return"
         ],
         "index": 90,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "Napakamura at convenient talaga sa Amazon mag order ng parts",
+              "summary": "User shares their positive experience ordering a Samsung 970 EVO Plus 1TB from Amazon for Php 3,130.34, significantly cheaper than local prices. The user upgraded their Proxmox server's mSATA drive to the Samsung SSD and easily installed Windows 10 LTSC. The old XPG drive is now used as the Proxmox OS drive.",
+              "total_price": "3,130.34 PHP",
+              "items_purchased": [
+                {
+                  "category": "SSD",
+                  "model": "Samsung 970 EVO Plus 1TB",
+                  "price": "3,130.34 PHP"
+                }
+              ],
+              "comments_highlights": {
+                "local_platform_frustrations": [
+                  "Users share frustrations with high prices on local platforms like Lazada and Shopee."
+                ],
+                "amazon_experiences": [
+                  "Several users mention positive experiences ordering from Amazon, citing quick shipping times and competitive prices."
+                ],
+                "concerns_and_savings_tips": [
+                  "Concerns about customs, RMA, and payment options for international orders.",
+                  "Some users mention using PayMaya or Citi promo codes to save on international orders."
+                ]
+              }
+            }
+          }
+          
     },
     {
         "title": "Thermalright Peerless Assassin 120 SE RAM clearance",
@@ -4290,7 +4626,34 @@
             "asrock B760M PG Lightning /D4 mb and the a thermalright peerless assassin 120 i want low profile ram at 4000mhz or higher, just don't seem to find any for a good price like the cheap 32gb g skill 4000 mhz cl 18 ram"
         ],
         "index": 91,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "Thermalright Peerless Assassin 120 SE RAM clearance",
+              "summary": "User is considering purchasing the Thermalright Peerless Assassin 120 SE CPU cooler and is concerned about RAM clearance with G.Skill Trident Z RAM on an NZXT N7 B550 Motherboard. They want to know if the RAM will fit properly under the cooler, given its large size.",
+              "concerns": [
+                "RAM clearance with G.Skill Trident Z RAM",
+                "Vertical clearance with the Thermalright Peerless Assassin 120 SE cooler"
+              ],
+              "comments_highlights": {
+                "cooling_configuration_suggestion": [
+                  "One user suggests mounting the fans in a pull-pull configuration to allow more room for RAM and to use all DIMM slots."
+                ],
+                "fan_positioning_and_clearance": [
+                  "A comment mentions a 42mm clearance, which may be tight for the 44mm G.Skill RAM, but adjusting the fan brackets might help."
+                ],
+                "additional_feedback_and_flexibility": [
+                  "A user confirms using a similar cooler setup with 56mm Corsair Vengeance RGB DDR5 RAM and asks if a pull-pull configuration works, showing flexibility for larger RAM."
+                ],
+                "late_update_and_common_concern": [
+                  "Someone inquires about the fit with G.Skill RAM, indicating that RAM clearance may be a common issue with this cooler."
+                ],
+                "other_concerns_and_solutions": [
+                  "A user mentions their preference for low-profile RAM for better clearance, especially at 4000MHz or higher speeds."
+                ]
+              }
+            }
+          }
+          
     },
     {
         "title": "Very happy with my first PC!",
@@ -4306,7 +4669,41 @@
             "Overpriced bro."
         ],
         "index": 92,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "Very happy with my first PC!",
+              "summary": "User, a college student and freelance web developer, shares their excitement about upgrading from a slow laptop to their first PC. They express gratitude for buying the PC with their own money and list the specifications of the new build.",
+              "pc_specifications": {
+                "price": "39.7k PHP",
+                "processor": "Ryzen 5 5600",
+                "cpu_cooler": "AF401 Digital Tower cooler",
+                "motherboard": "Gigabyte B550M-K (4 RAM slots)",
+                "memory": "32GB 3600MHz (2x16GB T-Force Vulcan TUF)",
+                "storage": "1TB MP44L Gen4x4",
+                "graphics_card": "Galax RTX 3060 Ti 8GB (1-Click OC, 4 months warranty, used)",
+                "psu": "750W Cougar ATLAS 80+ Bronze",
+                "case": "Keytech Visor Mesh (Tempered glass side, 4x aRGB fans)"
+              },
+              "comments_highlights": {
+                "congratulatory_remarks": [
+                  "Users congratulate the OP on their solid build and share similar experiences of building their first PC."
+                ],
+                "psu_advice": [
+                  "One comment mentions that the Cougar PSU is a good option, and another shares a personal story about how the PSU lasted for six years until an accident occurred."
+                ],
+                "curiosity_about_purchase": [
+                  "One user asks where the OP bought the components."
+                ],
+                "complimenting_the_build": [
+                  "One user wishes the OP high FPS and low temperatures in their new build."
+                ],
+                "price_concerns": [
+                  "A user notes that the build might be overpriced, though the OP seems very satisfied with their purchase."
+                ]
+              }
+            }
+          }
+          
     },
     {
         "title": "AISURIX RX 580GB don't buy ",
@@ -4341,7 +4738,33 @@
             "May mga bumili kasi nito na ang PSU ay di kaya ang RX580. Tingin ko di lang AISURIX ang may issue kundi ang mismong GPU version na RX580. Malakas sa sa power consumption ang RX580 kaya dapat ang PSU nito mataas ang watts na kadalasan ang gamit ng user eh generic PSU lang. Nangyari na kasi saken to. Di man ako naka generic PSU pro mababa (450) watts ng PSU ko. Nung nag palit ako ng 650watts nasolve agad problema."
         ],
         "index": 93,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "AISURIX RX 580GB don't buy",
+              "summary": "User shares their negative experience with the AISURIX RX 580GB GPU, describing a black screen issue after just 10 minutes of use. The user successfully refunded the card and strongly advises against buying AISURIX GPUs, especially from Shopee, Lazada, or second-hand sources.",
+              "comments_highlights": {
+                "negative_reputation": [
+                  "Several users warn against purchasing AISURIX GPUs, describing them as refurbished or low-quality cards often sold as 'new.'"
+                ],
+                "possible_psu_issues": [
+                  "A few users suggest that power supply issues may contribute to problems with AISURIX cards. One user found that their PSU was the problem, not the GPU itself."
+                ],
+                "luck_factor": [
+                  "Some users mention that buying AISURIX GPUs is essentially a gamble. If you're lucky, the GPU might work, but many others report problems."
+                ],
+                "better_alternatives": [
+                  "Users recommend second-hand, branded GPUs over AISURIX cards due to their questionable quality."
+                ],
+                "personal_experiences": [
+                  "A few people share that their AISURIX RX 580 cards are still functioning after extended use, while others mention issues early on."
+                ],
+                "psu_advice": [
+                  "Users stress the importance of using a proper PSU, preferably gold-rated or higher, to avoid power-related problems."
+                ]
+              }
+            }
+          }
+          
     },
     {
         "title": "I just bought 2nd hand Pc. Is this a steal or not? Or lugi ako? 35k",
@@ -4364,7 +4787,29 @@
             "[deleted]"
         ],
         "index": 94,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "I just bought a 2nd hand PC. Is this a steal or not? Or lugi ako? 35k",
+              "summary": "User shares their purchase of a second-hand PC for 35k PHP, listing the specs and asking if it's a good deal or if they overpaid.",
+              "comments_highlights": {
+                "steal_or_good_deal": [
+                  "Many commenters agree that the deal is good, but not a steal. The CPU and GPU alone are valued at around 37k PHP brand new, and the total price for the parts adds up to approximately 40-42k PHP when considering second-hand prices.",
+                  "Some people say it's a fair deal, not a steal, especially considering it's a second-hand purchase."
+                ],
+                "psu_considerations": [
+                  "A few users recommend replacing the PSU (Antec ATOM B650) in the near future, as it might not be of the best quality."
+                ],
+                "testing_advice": [
+                  "One comment advises making sure to test all components to ensure everything works properly before finalizing the purchase."
+                ],
+                "pc_condition": [
+                  "Comments generally suggest that the PC components are branded and have high specs, especially the GPU, which is hard to find at a reasonable price currently."
+                ]
+              },
+              "verdict": "While it's not considered a steal, the deal seems to be a good purchase for the price, especially given the high-end parts involved. It's also advised to be cautious with the PSU and to check the condition of the components."
+            }
+          }
+          
     },
     {
         "title": "[PSA] Buy NVME and RAM on Amazon. Yes, you read right. Amazon.",
@@ -4383,7 +4828,39 @@
             "Hi, i ordered 3 items from Amazon: NVME, RAM, and PSU. Total amount is obviously lagpas 10k pero what I did was 3 separate checkouts. Malalagyan kaya to ng import fees?"
         ],
         "index": 95,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "[PSA] Buy NVME and RAM on Amazon. Yes, you read right. Amazon.",
+              "summary": "User shares a Public Service Announcement (PSA) about the benefits of buying NVME drives and RAM from Amazon and having them shipped to the Philippines for free, highlighting significant price savings.",
+              "key_points": {
+                "shipping": [
+                  "Amazon ships free to the Philippines as long as the package costs $49 or more and is not bulky.",
+                  "No customs fees if the total cost is below ₱10,000."
+                ],
+                "price_comparison": [
+                  "Crucial P5 Plus (2TB PCIe Gen4): ₱5650 on Amazon vs ₱8099 on Shopee Mall.",
+                  "G.Skill Trident Z5 Neo (2x16GB, CL30): ₱6230 on Amazon vs ₱7599 on Shopee (for the CL36 variant)."
+                ],
+                "packaging": [
+                  "Users report that the packaging from Amazon is solid, with thick cartons and bubble wrap to protect the items during shipping."
+                ],
+                "personal_experience": [
+                  "The user shares their own experience with buying cheaper products on Amazon and receiving them in good condition without dents in the packaging."
+                ]
+              },
+              "comments_highlights": {
+                "additional_info": [
+                  "One user recommends using a dollar account or credit/debit card to avoid Amazon's 2% conversion fee when paying in PHP.",
+                  "Another user shares a Discord server that offers a tutorial for ordering on Amazon, as well as guides for PSUs and SSDs.",
+                  "A person shares a positive return experience with Amazon, noting how easy it was to return an incorrect item using DHL."
+                ],
+                "customs_and_courier": [
+                  "Some users inquire about customs fees and courier services (notably, people want to know if customs will charge fees on items over ₱10,000 or which courier handles the delivery)."
+                ]
+              },
+              "verdict": "The PSA highlights the significant savings on NVME and RAM by ordering from Amazon, especially when compared to local prices. It also provides valuable insights on the shipping process, customs considerations, and payment methods for those looking to purchase from Amazon."
+            }
+          }          
     },
     {
         "title": "San kayo nagkaknowledge about computers and specs?",
@@ -4426,7 +4903,36 @@
             "punta ka sa shop namin ma'am/sir may gaming PCs kami mura lang ryzen 5 tapos radeon graphics 30k lang complete with RGB gaming case po yun and 4GB of RAM"
         ],
         "index": 96,
-        "summary": null
+        "summary": {
+              "topic": "Learning About Computer Specs and Building PCs",
+              "insights": [
+                {
+                  "advice": "Start with YouTube and Forums",
+                  "details": "Many users recommend YouTube channels like Linus Tech Tips (LTT), Gamers Nexus, Hardware Unboxed, and JayzTwoCents for reviews and guides on components and building PCs."
+                },
+                {
+                  "advice": "Engage with Communities",
+                  "details": "Joining forums such as Reddit's r/BuildAPC or TipidPC can offer helpful insights. Reading reviews, tier lists, and engaging with others helps build understanding over time."
+                },
+                {
+                  "advice": "Learning from Experience",
+                  "details": "Hands-on PC building and learning from mistakes provides valuable knowledge on components and specs."
+                },
+                {
+                  "advice": "Begin with a Budget",
+                  "details": "Starting with a set budget and researching components within that range helps narrow down options and simplifies the process."
+                },
+                {
+                  "advice": "Use Resources Like PCPartPicker",
+                  "details": "PCPartPicker helps check component compatibility and make informed decisions. Reviews, benchmarking videos, and tier lists are also valuable."
+                },
+                {
+                  "advice": "Gradual Process of Learning",
+                  "details": "Understanding computer specs takes time. Starting slow, asking questions, and accumulating knowledge gradually is key."
+                }
+              ],
+              "overall_tone": "The thread emphasizes curiosity, using accessible resources, engaging with communities, and practical experience as key to learning about computers."
+        }
     },
     {
         "title": "I think Amazon or Ninjavan lost my 5600x",
@@ -4453,7 +4959,37 @@
             "**\\[UPDATE 12/19/2022 - 7PM\\]** I am now able to track my order via NinjaVan website, and it has arrived at the sorting hub. I haven't received my item but I'm going to say that the issue is resolved now. For anyone in the future, I'm uploading a photo of my Amazon tracker so you can use it as future reference if you're going through the same issue: https://i.imgur.com/0oKFDzF.png"
         ],
         "index": 97,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "Lost Package: Ryzen 5 5600x Processor via NinjaVan",
+              "summary": "A user shares their frustrating experience with a delayed delivery of a Ryzen 5 5600x processor, which was supposed to be delivered by NinjaVan. The user encountered communication issues with both Amazon and NinjaVan and was eventually able to track the package, which was located at a sorting hub.",
+              "delivery_issue": {
+                "carrier": "NinjaVan",
+                "product": "Ryzen 5 5600x Processor",
+                "delivery_status": "Sorting hub",
+                "issue": "Delayed delivery and communication problems with both Amazon and NinjaVan"
+              },
+              "comments": [
+                {
+                  "user_experience": "Several users shared similar frustrations with NinjaVan's delivery service.",
+                  "advice": "Contact Amazon for a replacement or refund as a possible solution."
+                },
+                {
+                  "user_experience": "Others mentioned their own issues with NinjaVan, citing a pattern of mishandling deliveries.",
+                  "advice": "Continue tracking the package and exercise patience. Contact NinjaVan directly for updates."
+                },
+                {
+                  "user_experience": "One user suggested escalating the issue to Amazon support for further assistance.",
+                  "advice": "Reach out to Amazon's customer support to help resolve the situation."
+                }
+              ],
+              "next_steps": [
+                "Contact Amazon for a replacement or refund.",
+                "Track the package through NinjaVan for updates.",
+                "Consider escalating the issue to customer service if delays persist."
+              ]
+            }
+          }          
     },
     {
         "title": "I built my first PC! Sort of.",
@@ -4470,7 +5006,44 @@
             "Does it run with 3200mhz RAM without issues since you have i5-10400f and b560m motherboard?"
         ],
         "index": 98,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "First PC Build Complete! Budget-Friendly but Powerful",
+              "summary": "A first-time PC builder shares their excitement about completing their build with solid components at a budget-friendly price. The user is happy with the outcome despite not having a top-tier build.",
+              "components": {
+                "CPU": "Intel i5-10400F",
+                "Motherboard": "Gigabyte B560M DS3H",
+                "GPU": "ASUS TUF GAMING 1650",
+                "RAM": "T-force Delta RGB",
+                "Storage": "Seagate Barracuda HDD",
+                "PSU": "Cooler Master MWE v2 Bronze"
+              },
+              "builder_experience": {
+                "status": "Happy with the outcome",
+                "skill_level": "Beginner",
+                "build_type": "Budget-friendly, not top-tier"
+              }
+            },
+            "comments": [
+              {
+                "user_experience": "Congratulatory messages for completing the first build, with appreciation for the choice of components.",
+                "advice": "Check the airflow in the case to ensure optimal cooling performance."
+              },
+              {
+                "user_experience": "Several users expressed interest in seeing photos of the completed build.",
+                "advice": "Consider sharing pictures of the build to inspire others."
+              },
+              {
+                "user_experience": "A few users raised questions about the compatibility of RAM with the CPU and motherboard.",
+                "advice": "Double-check RAM compatibility in the motherboard manual or through online resources."
+              }
+            ],
+            "next_steps": [
+              "Test airflow and overall cooling.",
+              "Share photos of the build for feedback and inspiration.",
+              "Confirm RAM compatibility and performance through BIOS settings or software tools."
+            ]
+          }          
     },
     {
         "title": "PSA: IPASON/SEGOTEP does not honor their warranty, Shopee also didn't really help me",
@@ -4485,6 +5058,41 @@
             "So in short, ang gusto mo na makita sa psu apat na cable ng pcie connector (9 lahat) at ang binigay sayo ay dalawang pcie connector lang (apat lahat). Tama ba? Medyo kasi nakakalito, ang reference ko ay yun akin na binili na psu yun coolermaster mwe v2 650w dalawa ang pcie connector nun apat lahat ang cable for gpu. \nAnyways, saan mo naman gagamitin yun apat na pcie connector?"
         ],
         "index": 99,
-        "summary": null
+        "summary": {
+            "post": {
+              "title": "Frustrating Experience with Segotep GN650W PSU Purchase on Shopee",
+              "summary": "The user shares a frustrating experience with purchasing a Segotep GN650W PSU on Shopee. The product was advertised with four PCI-E connectors but only arrived with two. After multiple attempts to resolve the issue, including contacting both the seller and distributor, the user faced difficulties with Shopee support and was eventually advised to buy a different model.",
+              "product": {
+                "name": "Segotep GN650W Power Supply",
+                "advertised_features": "Four PCI-E connectors",
+                "received_features": "Two PCI-E connectors"
+              },
+              "issue": {
+                "initial_contact": "Seller redirected to distributor Ipason",
+                "escalation": "Shopee support rejected refund request despite providing documentation",
+                "seller_response": "Claimed order status was 'completed' and suggested purchasing a different model"
+              },
+              "current_status": "User still facing unresolved issue and lack of resolution from Shopee."
+            },
+            "comments": [
+              {
+                "user_experience": "Several users ask about the reputation of Ipason/Segotep and whether anyone else has experienced similar issues with this brand.",
+                "advice": "Consider reaching out to the Department of Trade and Industry (DTI) for further action."
+              },
+              {
+                "user_experience": "Some users suggest trying to escalate the case within Shopee support or pursue a chargeback with the payment provider if possible.",
+                "advice": "Contact DTI or consider formal legal action if the issue is unresolved."
+              },
+              {
+                "user_experience": "One commenter shares their own negative experience with an online purchase, encouraging the OP to persist with contacting authorities for a resolution.",
+                "advice": "Keep all relevant documentation and continue pursuing the case."
+              }
+            ],
+            "next_steps": [
+              "Contact the Department of Trade and Industry (DTI) for consumer protection.",
+              "Escalate the issue with Shopee support or pursue a chargeback if possible.",
+              "Check for other online platforms that offer better customer service for future purchases."
+            ]
+          }          
     }
 ]
