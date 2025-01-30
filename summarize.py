@@ -1,12 +1,17 @@
-from transformers import BartForConditionalGeneration, BartTokenizer
+from transformers import BartForConditionalGeneration, BartTokenizer, GenerationConfig
 
 class Summarize:
     def __init__(self):
         # self.tokenizer = BartTokenizer.from_pretrained("model")
         # self.model = BartForConditionalGeneration.from_pretrained("model")
-        self.tokenizer = BartTokenizer.from_pretrained("facebook/bart-large-cnn")
-        self.model = BartForConditionalGeneration.from_pretrained("facebook/bart-large-cnn")
+        self.tokenizer = BartTokenizer.from_pretrained("models/model2")
+        self.model = BartForConditionalGeneration.from_pretrained("models/model2")
+        # self.tokenizer = BartTokenizer.from_pretrained("facebook/bart-large-cnn")
+        # self.model = BartForConditionalGeneration.from_pretrained("facebook/bart-large-cnn")
 
+        self.generation_config = GenerationConfig.from_pretrained('models/model2')
+        # self.generation_config.forced_bos_token_id = 0 
+        
     def summarize(self, text, prompt):
         inputs = self.tokenizer.encode(
             f"{prompt}: {text}",
@@ -16,10 +21,11 @@ class Summarize:
         )
         summary_ids = self.model.generate(
             inputs,
-            max_length=130,
-            min_length=30,
+            max_length=120,
+            min_length=32,
             length_penalty=2.0,
             num_beams=4,
+            generation_config=self.generation_config
             # no_repeat_ngram_size=3,
             # early_stopping=True
         )
