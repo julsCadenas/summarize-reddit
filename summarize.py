@@ -2,6 +2,8 @@ from transformers import BartForConditionalGeneration, BartTokenizer
 
 class Summarize:
     def __init__(self):
+        # self.tokenizer = BartTokenizer.from_pretrained("model")
+        # self.model = BartForConditionalGeneration.from_pretrained("model")
         self.tokenizer = BartTokenizer.from_pretrained("facebook/bart-large-cnn")
         self.model = BartForConditionalGeneration.from_pretrained("facebook/bart-large-cnn")
 
