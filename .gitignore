@@ -2,4 +2,4 @@
 .env
 response.json
 __pycache__/
-/model
+/models
