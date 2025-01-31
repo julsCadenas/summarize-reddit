@@ -1,4 +1,29 @@
 {
-    "post_summary": "{\"title\": \"Budget for a New Chair with Adjustable Headrest and Armrest\", \"selftext\": \"The user is looking for a new chair with an adjustable headrest, armrest, chair height, and a lumbar pillow with mesh material. They mention a budget of P3,000-P4,000 and highlight popular brands.\", \"comments\": [\"Users provide feedback on the chair's specifications and suggest alternative options.\", \"Some users suggest reaching out to influencers for recommendations on speakerphones or headphones for better long-distance communication.\", \"The sentiment is positive, with users appreciating the user's effort to find a chair and offering helpful suggestions for its design.\"], \"sentiment\": \" the sentiment is encouraging and supportive, with Users sharing their own search experiences and offering suggestions for additional features on chairs and speakers.\"}",
-    "comments_summary": "{\"title\": \"Budget-friendly office chair suggestions\", \"selftext\": {\"overview\": \"The post provides a budget-friendly option for purchasing a used desktop chair, highlighting popular brands like Steelcase and Sihoo as examples. The user shares their own experience with buying good chairs under budget, highlighting the benefits of buying used or refurbished models.\", \"suggestions\": [\"Used Steelcase chairs priced at around 4k PHP on Facebook Marketplace with a guarantee.\", \"Carousell offers office chairs for around 1.5k PHP, which is within the budget.\", \"The OP shares a positive experience with purchasing a SihOO m57 and an Ergo Prime Mesh chair for around 8-9k PHP each, describing them as the best desktop chairs they've ever bought.\", \"There are 3-5k chairs out there, and the OP advises trying different platforms to find good deals.\"], \"comments\": [\"Users share their own experiences with buying chairs and advise the OP on where to buy and how to proceed.\", \"Some users mention limited budget options and recommend specific brands or platforms based on their previous experiences.\", \" The sentiment is mixed, with users appreciating the OP's experience but also sharing their own concerns about the quality of used chairs and the wide variety of models available.\"]}}"
+    "post_summary": {
+        "title": "Budget for a New Chair with Adjustable Headrest and Armrest",
+        "selftext": "The user is looking for a new chair with an adjustable headrest, armrest, chair height, and a lumbar pillow with mesh material. They mention a budget of P3,000-P4,000 and highlight popular brands.",
+        "comments": [
+            "Users provide feedback on the chair's specifications and suggest alternative options.",
+            "Some users suggest reaching out to influencers for recommendations on speakerphones or headphones for better long-distance communication.",
+            "The sentiment is positive, with users appreciating the user's effort to find a chair and offering helpful suggestions for its design."
+        ],
+        "sentiment": " the sentiment is encouraging and supportive, with Users sharing their own search experiences and offering suggestions for additional features on chairs and speakers."
+    },
+    "comments_summary": {
+        "title": "Budget-friendly office chair suggestions",
+        "selftext": {
+            "overview": "The post provides a budget-friendly option for purchasing a used desktop chair, highlighting popular brands like Steelcase and Sihoo as examples. The user shares their own experience with buying good chairs under budget, highlighting the benefits of buying used or refurbished models.",
+            "suggestions": [
+                "Used Steelcase chairs priced at around 4k PHP on Facebook Marketplace with a guarantee.",
+                "Carousell offers office chairs for around 1.5k PHP, which is within the budget.",
+                "The OP shares a positive experience with purchasing a SihOO m57 and an Ergo Prime Mesh chair for around 8-9k PHP each, describing them as the best desktop chairs they've ever bought.",
+                "There are 3-5k chairs out there, and the OP advises trying different platforms to find good deals."
+            ],
+            "comments": [
+                "Users share their own experiences with buying chairs and advise the OP on where to buy and how to proceed.",
+                "Some users mention limited budget options and recommend specific brands or platforms based on their previous experiences.",
+                " The sentiment is mixed, with users appreciating the OP's experience but also sharing their own concerns about the quality of used chairs and the wide variety of models available."
+            ]
+        }
+    }
 }

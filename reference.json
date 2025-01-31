@@ -1,5 +1,25 @@
 {
-    "post_summary": "{\"title\": \"Best budget-friendly Ergonomic Chair with Adjustable Headrest, Armrest and Lumbar Pillow\", \"selftext\": \"The user is looking for a new ergonomic chair around P3,000-P4,000 with an adjustable headrest, armrest and lumbar pillow made with mesh material.\", \"comments\": \"Users suggested alternative options and suggested that the user should try buying secondhand from stores like Carousel and FB Marketplace.\", \"sentiment\": \"The sentiment is positive with users are supporting and offering suggestions to the OP. The sentiment is also encouraging as the users shared their own experiences in the comments.\"}",
-    "comments_summary": "{\"title\": \"Budget-friendly Ergonomic Chair Suggestions\", \"selftext\": {\"overview\": \"The comments suggested to the OP to buy used chairs, highlighting popular brands like Steelcase and Sihoo as examples.\", \"suggestions\": [\"Used Steelcase chairs around 4k PHP on Facebook Marketplace\", \"Check Carousel out for office chairs around 1.5K\", \"Sihoo m57 and Ergo Prime Mesh are the best but are priced around 8-9k.\", \"There are cheap chairs around 3-5k but they don't last.\"] ,\"comments\": [\"Users share their own experiences with buying chairs and advised the OP on where to buy.\", \"The comments also recommended specific brands and platforms based on their previous experiences.\", \"The sentiment is mixed as some users shared positive experiences while others are unsure and didn't like the quality of used and cheaper chairs.\"]}}"
+    "post_summary": {
+        "title": "Best budget-friendly Ergonomic Chair with Adjustable Headrest, Armrest and Lumbar Pillow",
+        "selftext": "The user is looking for a new ergonomic chair around P3,000-P4,000 with an adjustable headrest, armrest and lumbar pillow made with mesh material.",
+        "comments": "Users suggested alternative options and suggested that the user should try buying secondhand from stores like Carousel and FB Marketplace.",
+        "sentiment": "The sentiment is positive with users are supporting and offering suggestions to the OP. The sentiment is also encouraging as the users shared their own experiences in the comments."
+    },
+    "comments_summary": {
+        "title": "Budget-friendly Ergonomic Chair Suggestions",
+        "selftext": {
+            "overview": "The comments suggested to the OP to buy used chairs, highlighting popular brands like Steelcase and Sihoo as examples.",
+            "suggestions": [
+                "Used Steelcase chairs around 4k PHP on Facebook Marketplace",
+                "Check Carousel out for office chairs around 1.5K",
+                "Sihoo m57 and Ergo Prime Mesh are the best but are priced around 8-9k.",
+                "There are cheap chairs around 3-5k but they don't last."
+            ],
+            "comments": [
+                "Users share their own experiences with buying chairs and advised the OP on where to buy.",
+                "The comments also recommended specific brands and platforms based on their previous experiences.",
+                "The sentiment is mixed as some users shared positive experiences while others are unsure and didn't like the quality of used and cheaper chairs."
+            ]
+        }
+    }
 }
-  
