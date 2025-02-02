@@ -1,6 +1,6 @@
 # Reddit Summarization Model
 
-This project uses a fine-tuned model for summarizing Reddit posts and their comments. The model has been trained using a dataset of Reddit posts, and the goal is to generate concise and meaningful summaries of the original posts and the associated comments.
+This project uses a fine-tuned model for summarizing Reddit posts and their comments. The model has been trained using a dataset of 100 Reddit posts, and the goal is to generate concise and meaningful summaries of the original posts and the associated comments.
 
 ## Model on Hugging Face
 
