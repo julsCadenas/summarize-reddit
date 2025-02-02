@@ -3,3 +3,4 @@
 response.json
 __pycache__/
 /models
+nltk_data/
