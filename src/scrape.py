@@ -41,5 +41,5 @@ class Scrape:
         url = f"https://oauth.reddit.com/r/{subreddit}/comments/{post_id}"
         response = requests.get(url, headers=self.headers)
         response.raise_for_status()
-        self.save_into_json(response, "../data/response.json")
+        self.save_into_json(response, "./data/response.json")
         return response.json()

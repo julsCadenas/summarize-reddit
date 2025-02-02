@@ -8,8 +8,8 @@ class Summarize:
         # self.generation_config.forced_bos_token_id = 0 
         self.summarizer = pipeline(
             "summarization",
-            model = "../models/model2",
-            tokenizer = "../models/model2",
+            model = "julsCadenas/summarize-reddit",
+            tokenizer = "julsCadenas/summarize-reddit",
         )
         
     def summarize(self, text, prompt):
