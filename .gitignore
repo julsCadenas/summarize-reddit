@@ -4,3 +4,5 @@ response.json
 __pycache__/
 /models
 nltk_data/
+drafts
+misc/eval.ipynb
