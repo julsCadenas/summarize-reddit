@@ -45,6 +45,8 @@ To get started, you need to install the required dependencies. You can do this b
 
 # **Model Evaluation**
 
+For a detailed evaluation of the model, including additional analysis and visualizations, refer to the [evaluation notebook](https://github.com/julsCadenas/summarize-reddit/blob/master/notebooks/eval.ipynb).
+
 ## **BERTScore**
 
 The model’s performance was evaluated using **BERTScore** (Precision, Recall, and F1).
