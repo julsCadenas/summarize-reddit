@@ -2,14 +2,11 @@ from transformers import pipeline
 
 class Summarize:
     def __init__(self):
-        # self.tokenizer = BartTokenizer.from_pretrained("facebook/bart-large-cnn")
-        # self.model = BartForConditionalGeneration.from_pretrained("facebook/bart-large-cnn")
-        # self.tokenizer = BartTokenizer.from_pretrained("models/model2")
-        # self.generation_config.forced_bos_token_id = 0 
         self.summarizer = pipeline(
             "summarization",
             model = "julsCadenas/summarize-reddit",
             tokenizer = "julsCadenas/summarize-reddit",
+            # device = -1
         )
         
     def summarize(self, text, prompt):
@@ -18,6 +15,8 @@ class Summarize:
         input_len = len(input_tokens)
         max_length = min(input_len * 2, 1024)
         min_length = max(32, input_len // 4)
+        if min_length >= max_length:
+                max_length = min_length + 20 
         summary = self.summarizer(
             inputs,
             max_length=max_length,
@@ -42,6 +41,7 @@ class Summarize:
             "post_summary": post_summary,
             "comments_summary": comments_summary
         }
+
 
 # OLD CODE
 
