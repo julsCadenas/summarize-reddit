@@ -68,8 +68,6 @@ The model’s performance was evaluated using **BERTScore** (Precision, Recall, 
 
 ## **ROUGE**
 
-## **ROUGE**
-
 The following table summarizes the ROUGE scores (Recall, Precision, and F1) for three different metrics: ROUGE-1, ROUGE-2, and ROUGE-L. These values represent the mean scores across all summaries.
 
 ### **Average ROUGE Scores**  
