@@ -84,12 +84,44 @@ The following table summarizes the ROUGE scores (Recall, Precision, and F1) for 
 - **ROUGE-2**: Exhibits lower recall and precision, indicating the model struggles with bigram relationships and context.
 - **ROUGE-L**: Performs better than ROUGE-2 but still faces challenges with precision. It captures longer subsequences more effectively than bigrams.
 
-## **Conclusion**
+### **Conclusion**
 - **ROUGE-1**: The model shows moderate performance but generates some irrelevant words (low precision).
 - **ROUGE-2**: The model performs poorly, indicating difficulty in capturing bigram relationships.
 - **ROUGE-L**: Slightly better than ROUGE-2, with some success in capturing longer sequences.
 
-## **Improvements**
+### **Improvements**
 - Focus on enhancing **bigram overlap** (ROUGE-2) and overall **context understanding**.
 - Reduce **irrelevant content** for improved **precision**.
 - Improve **sequence coherence** for better **ROUGE-L** scores.
+
+## **METEOR Score**
+
+| Metric      | Meteor Score |
+|-------------|--------------|
+| **Mean**    | 0.2079       |
+| **Min**     | 0.0915       |
+| **Max**     | 0.3216       |
+| **STD**     | 0.0769       |
+
+### **Interpretation**
+- **Mean**: The average METEOR score indicates good performance in terms of word alignment and synonyms, but there is still room for improvement.
+- **Min**: The lowest METEOR score suggests some summaries may not align well with the reference.
+- **Max**: The highest METEOR score shows the model's potential for generating very well-aligned summaries.
+- **STD**: The standard deviation indicates some variability in the model's performance across different summaries.
+
+### **Conclusion**
+- The model's **METEOR Score** shows a generally solid performance in generating summaries that align well with reference content but still has variability in certain cases.
+
+### **Improvements**
+- Focus on improving the **alignment** and **synonym usage** to achieve higher and more consistent **METEOR scores** across summaries.
+
+## **TLDR**
+
+### **Comparison & Final Evaluation**
+- **BERTScore** suggests the model is good at generating relevant tokens (precision) but struggles with capturing all relevant content (recall).
+- **ROUGE-1** is decent, but **ROUGE-2** and **ROUGE-L** show weak performance, particularly in terms of bigram relationships and sequence coherence.
+- **METEOR** results show solid alignment, but there’s significant variability, especially with lower scores.
+
+### **Conclusion**
+- The model performs decently but lacks consistency, especially in **bigram overlap** (ROUGE-2) and capturing **longer sequences** (ROUGE-L). There’s room for improvement in **recall** and **precision** to make the summaries more relevant and coherent.
+- Focus on improving **recall**, **bigram relationships**, and **precision** to achieve more consistent, high-quality summaries.
