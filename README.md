@@ -41,6 +41,34 @@ To get started, you need to install the required dependencies. You can do this b
 2. Add the *URL* of your preferred Reddit post on main.py.
 3. Run ```src/main.py```
 
+### **Formatted JSON Output**
+
+The model outputs its responses in JSON format, which may not be fully formatted properly. For instance, the output could look like [this](./data/test_output.json).
+
+You can see that the output contains escaped quotes within the values. This data should be properly formatted for easier consumption. To fix this, you can use the following function to clean and format the JSON:
+```python
+def fix_json(raw_data, fixed_path):
+    if not isinstance(raw_data, dict):
+        raise ValueError(f"Expected a dictionary, but got: {type(raw_data)}")
+
+    try:
+        formatted_data = {
+            "post_summary": json.loads(raw_data["post_summary"]),
+            "comments_summary": json.loads(raw_data["comments_summary"])
+        }
+    except json.JSONDecodeError as e:
+        print("Error decoding JSON:", e)
+        return
+    
+    with open(fixed_path, "w") as file:
+        json.dump(formatted_data, file, indent=4)
+
+    print(f"Formatted JSON saved to {fixed_path}")
+```
+After using the fix_json() function to clean and format the data, the data will now look like [this](./data/formatted_output.json).
+
+You can view the full notebook on formatting the output [here](./notebooks/testing.ipynb).
+
 <br>
 
 # **Model Evaluation**
