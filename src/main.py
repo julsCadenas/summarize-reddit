@@ -35,7 +35,7 @@ def main():
     print("Post Summary:", json.dumps(summary["post_summary"], indent=4))
     print("Comments Summary:", json.dumps(summary["comments_summary"], indent=4))
 
-    save_summary(summary, '../data/summary.json')
+# save_summary(summary, '../data/summary.json')
         
 if __name__ == "__main__":
     main()
