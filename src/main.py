@@ -28,7 +28,7 @@ def main():
     summarize = Summarize()
 
     scraper.authenticate()
-    post_link = 'https://www.reddit.com/r/phtravel/comments/1ieyug7/is_there_a_cheaper_alternative_way_to_go_to/'
+    post_link = 'https://www.reddit.com/r/ITPhilippines/comments/1irc5ix/83k_monthly_as_senior_software_engineer_fair_ba/'
     response = scraper.fetch_post(post_link)
     summary = summarize.process_data(response, "Summarize and highlight popular brands")
     
